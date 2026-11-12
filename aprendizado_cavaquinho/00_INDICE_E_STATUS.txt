@@ -1,0 +1,86 @@
+ÍNDICE E STATUS — APRENDIZADO DE CAVAQUINHO
+
+Pasta: hen-sino-Cavaco/aprendizado_cavaquinho/
+Documento de orientação atual: hen-sino-Cavaco/nucleo/_DOC_PROJETO.txt
+Documentação desta pasta: _DOC.txt
+Status geral: _STATUS.txt
+
+ARQUIVOS
+
+01_OBJETIVO_DO_PROJETO.txt
+  O problema de aprendizagem do aluno, o escopo de acordes e os resultados
+  desejados.
+
+02_SEQUENCIA_DE_ENSINO.txt
+  Ordem de estudo: acordes mais acessíveis, quadradinhos, levadas e repertório,
+  do básico ao profissional.
+
+03_ACORDES_E_DIAGRAMAS.txt
+  Afinação, leitura de diagramas, posições candidatas e pendências de validação.
+
+04_PESQUISA_E_REFERENCIAS.txt
+  Fontes consultadas, o que apoiam e o que não comprovam.
+
+05_PONTOS_PARA_VALIDAR.txt
+  Decisões e testes ainda necessários antes de fechar a sequência.
+
+06_PROMPT_ANALISE_ACORDES_CHATGPT.txt
+  Prompt que gerou o relatório de pesquisa anterior.
+
+07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt
+  Vinte e oito posições candidatas recalculadas, com notas resultantes e limites
+  da conferência musical.
+07_MATRIZ_DE_ACORDES_AUDITADA.txt
+  Cópia quase idêntica do arquivo anterior; difere apenas no título. O arquivo
+  CANDIDATOS_CALCULADOS é a referência operacional para evitar edições paralelas.
+
+MÓDULOS CURRICULARES
+
+Os módulos estão em modulos/. Cada pasta contém _DOC.txt (objetivo, conteúdo e
+critérios) e _STATUS.txt (estado, bloqueios e dependências). São módulos de
+aprendizagem, não módulos Python.
+
+00_base_validacao — confirmar convenções, fontes e posições no instrumento.
+01_acordes_iniciais — escolher e praticar poucos acordes acessíveis.
+02_quadradinho_e_trocas — aplicar os acordes em um ciclo de quatro funções.
+03_levadas — escolher duas levadas evolutivas diferentes da batida já conhecida.
+04_semiavancado — transferir padrões para outra tonalidade permitida.
+05_avancado — trabalhar sequências, repertório e recursos rítmicos.
+06_profissional — desenvolver autonomia dentro da matriz aprovada.
+
+PRINCÍPIO DO PROJETO
+
+O curso vai trabalhar inicialmente com uma matriz de sete fundamentais (Dó, Ré,
+Mi, Fá, Sol, Lá e Si) e quatro linhas: maior, menor, fundamental sustenida e
+dominante com sétima. As interpretações das duas últimas linhas ainda são
+provisórias. A matriz é o vocabulário de acordes do curso; exercícios,
+quadradinhos e repertório devem ser escolhidos a partir dela.
+
+O quadradinho de samba de referência é o ciclo de quatro acordes
+I–VI7–IIm–V7, por exemplo C–A7–Dm–G7. Isso é diferente dos sete acordes que
+podem ser organizados em um campo harmônico. A matriz atual permite ciclos
+completos em algumas tonalidades, não em todas as sete fundamentais.
+
+Primeiro quadradinho candidato para teste: G–E7–Am–D7. As formas calculadas
+incluem G aberto e E7 com dois dedos, mas Am ainda precisa ser comparado com a
+posição preferida pelo aluno. A escolha não está confirmada como a mais fácil.
+
+STATUS E PRÓXIMOS PASSOS
+
+O relatório anterior continha erros de cálculo e foi revisado no arquivo 07. As
+28 posições candidatas passam na conferência das notas, mas isso não prova que
+sejam as mais fáceis nem confirma cada desenho em uma fonte independente.
+
+Ordem de trabalho:
+1. Confirmar as definições das linhas e validar as posições no instrumento.
+2. Escolher os primeiros acordes pela facilidade real para o aluno.
+3. Montar quadradinhos com esses acordes.
+4. Escolher duas levadas simples e evolutivas, sem repetir a batida básica que o
+   aluno já conhece.
+5. Aplicar acordes, quadradinhos e levadas a músicas que usem somente a matriz.
+6. Organizar o avanço em básico, semiavançado, avançado e profissional.
+
+O projeto ainda está na preparação pedagógica. As pastas research/ e
+aprendizado_cavaquinho/ devem ser mantidas: a primeira guarda pesquisa ainda
+incompleta e a segunda guarda a base do currículo. Não iniciar novas
+funcionalidades de software antes de validar essa base.

@@ -1,0 +1,119 @@
+BASE DO PROJETO — MÉTODO DE ESTUDO DE CAVAQUINHO BRASILEIRO
+
+POR QUE ESTE PROJETO EXISTE
+
+O aluno está travado porque ainda não sabe quais acordes estudar. O projeto deve
+resolver essa dúvida antes de aumentar a lista de músicas, ensinar mais teoria ou
+desenvolver novas funções no programa.
+
+OBJETIVO DE APRENDIZAGEM
+
+Aprender os acordes escolhidos até reconhecê-los pelo nome, encontrá-los no braço
+do cavaquinho e usá-los em quadradinhos e músicas. A meta é olhar uma cifra,
+identificar o acorde, localizar a posição já treinada e tocar a troca no ritmo.
+
+VOCABULÁRIO INICIAL DE ACORDES
+
+O esqueleto proposto tem sete fundamentais — Dó, Ré, Mi, Fá, Sol, Lá e Si — e
+quatro linhas — maior, menor, sustenida e com sétima. Isso cria 28 células.
+
+Interpretações provisórias:
+- “Sustenida” = acorde maior com a fundamental elevada em um semitom.
+- “Com sétima” = acorde dominante, como C7.
+
+Essas duas definições precisam de confirmação do aluno. E# soa como F e B# soa
+como C; não são sons novos.
+
+Regra do curso: começar com esses acordes e construir exercícios e repertório
+com eles. Não acrescentar outras qualidades de acorde sem conversar com o aluno.
+As 28 posições candidatas estão em
+aprendizado_cavaquinho/07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt. Elas passam na
+conferência musical por cálculo, mas a escolha das mais fáceis e a confirmação
+das formas em fontes independentes ainda estão pendentes.
+
+O QUE É O QUADRADINHO DE SAMBA
+
+O quadradinho de samba de referência é a sequência de quatro funções
+I–VI7–IIm–V7. Em Dó maior: C–A7–Dm–G7. Portanto, é quatro acordes, não seis ou
+sete. Os sete acordes pertencem ao campo harmônico; o quadradinho usa quatro
+funções. Uma sequência mais longa pode ligar vários trechos, mas não é o
+quadradinho básico.
+
+Com a matriz atual, há exemplos completos em:
+- Dó: C – A7 – Dm – G7
+- Ré: D – B7 – Em – A7
+- Fá: F – D7 – Gm – C7
+- Sol: G – E7 – Am – D7
+- Si bemol: A# – G7 – Cm – F7
+
+O material atual não fecha esse quadradinho em todas as tonalidades. Mi, Lá e
+outras tonalidades precisam de acordes sustenidos menores ou com sétima que não
+fazem parte das quatro linhas propostas. Não acrescentar esses acordes sem
+decisão do aluno; escolher uma das tonalidades completas ou discutir a expansão
+da matriz.
+
+Esses são exemplos harmônicos para teste, não músicas ou posições finais. A
+facilidade depende de testar as quatro formas e as trocas no cavaquinho.
+
+Primeiro candidato recomendado para teste: G – E7 – Am – D7. G é aberto, E7 usa
+duas casas pressionadas na forma calculada, e as formas candidatas de Am e D7 não
+exigem pestana. Isso torna o conjunto promissor, mas não prova que será o mais
+fácil para a mão do aluno; comparar especialmente a forma de Am com a posição que
+ele já considera mais confortável.
+
+ORDEM DO ESTUDO
+
+1. Confirmar as quatro linhas da matriz e revisar os diagramas.
+2. Testar as posições candidatas e escolher os acordes mais acessíveis para o
+   aluno.
+3. Memorizar esses acordes: cifra → nome → posição no braço; e posição → nome.
+4. Formar e praticar quadradinhos de quatro acordes, usando só a matriz.
+5. Escolher duas levadas simples que possam evoluir para variações mais
+   avançadas.
+6. Não ensinar novamente a batida básica que o aluno já conhece. Considerar sua
+   batida própria como referência.
+7. Escolher músicas compatíveis para praticar cifras, localização dos acordes e
+   trocas no ritmo.
+8. Avançar por básico, semiavançado, avançado e profissional.
+
+COMO OS NÍVEIS AVANÇAM
+
+- Básico: reconhecer e montar os primeiros acordes; tocar o primeiro
+  quadradinho com som limpo e pulso estável.
+- Semiavançado: tocar mais quadradinhos, variar ordem e dinâmica e usar as duas
+  levadas em andamento confortável.
+- Avançado: ligar sequências, tocar repertório completo, acelerar trocas,
+  trabalhar abafamentos, repiques e variações.
+- Profissional: interpretar e organizar repertório com precisão, dinâmica,
+  condução rítmica, transposição compatível e autonomia, ainda dentro da matriz
+  de acordes aprovada.
+
+“Profissional” dentro desta base não significa conhecer toda a harmonia do
+cavaquinho. Se o repertório exigir acordes fora da matriz — como maj7, diminutos,
+aumentados ou extensões — o aluno decide se quer ampliar o esqueleto.
+
+RITMO
+
+O aluno já conhece a batida básica e tem uma batida própria. O estudo de ritmo
+deve começar com duas levadas simples, mas expansíveis, não com a batida básica.
+Cada levada será praticada em um acorde, depois em um quadradinho e por fim em
+músicas. A escolha das duas levadas ainda será feita com exemplos e teste.
+
+REGRAS DE VALIDAÇÃO
+
+- Confirmar afinação antes de validar notas de um diagrama.
+- Calcular as notas de cada corda; não confiar somente no nome impresso no
+  desenho.
+- Distinguir candidato matematicamente correto, forma documentada em fonte e
+  forma testada como fácil para o aluno.
+- Não chamar uma posição de “mais fácil” até compará-la no instrumento.
+- Avançar quando o aluno consegue reconhecer o acorde, encontrá-lo no braço,
+  tocá-lo limpo e trocar no pulso.
+- Não desenvolver o currículo definitivo nem ampliar o repertório de acordes
+  antes de validar a base pedagógica.
+
+DOCUMENTOS DE TRABALHO
+
+Leia aprendizado_cavaquinho/00_INDICE_E_STATUS.txt para o estado atual e a lista
+dos documentos. As decisões, dúvidas, fontes e testes pendentes estão detalhados
+nos arquivos 01 a 07 dessa pasta.

@@ -1,0 +1,27 @@
+DOCUMENTAÇÃO — CONFIGURAÇÕES E TEMAS
+
+RESPONSABILIDADE
+
+Esta pasta é a fonte central de textos, dimensões, cores e estilos fixos da
+interface. Os valores escolhidos pelo usuário não são gravados aqui; eles ficam
+em AppData para não serem apagados quando o código for atualizado.
+
+TEMAS
+
+- TEMA_PADRAO define o tema usado quando ainda não existe uma escolha salva.
+- TEMAS_PREDEFINIDOS oferece Noite de madeira, Papel suave e Contraste elevado.
+- CORES_TEMA_EDITAVEIS identifica as cinco cores que o usuário pode escolher:
+  fundo, superfície, menu, texto principal e destaque.
+- criar_tema_personalizado deriva cores auxiliares e estados de interação a
+  partir dessas cinco escolhas.
+- normalizar_tema valida o JSON e completa valores ausentes ou inválidos.
+- estilos_para_tema aplica a paleta aos estilos QSS da janela e do diálogo.
+
+USO
+
+MainWindow lê o tema do AppData e chama estilos_para_tema ao abrir o aplicativo
+e sempre que uma nova paleta é aplicada. Widgets futuros devem reutilizar os
+nomes e funções deste módulo, em vez de declarar cores fixas localmente.
+
+Os temas são locais a cada usuário e não alteram as configurações do sistema
+operacional. O esquema do arquivo JSON deve continuar versionado.

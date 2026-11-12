@@ -1,0 +1,107 @@
+PESQUISA E REFERÊNCIAS
+
+OBJETIVO DA PESQUISA
+
+Usar fontes para confirmar afinação, leitura dos diagramas, exemplos de acordes
+e organização didática. Uma fonte que mostra uma forma prova que ela aparece
+naquele material; não prova, sozinha, que seja a mais fácil ou mais popular.
+“Mais fácil para este aluno” exige teste no instrumento.
+
+A síntese das fontes sobre memória, sequência pedagógica, diagramas e áudio está
+em ../research/notes.md. Ela complementa este documento e não valida as 28
+posições candidatas.
+
+FONTES CONSULTADAS
+
+
+OLHAR AQUI TBM
+https://cavaquinhos.pt/?utm_source=chatgpt.com
+
+
+1. Victor Cazzoli — Cavaquinho do Zero: Manual do Iniciante.
+   https://cavaquinhoparainiciantes.com.br/wp-content/uploads/2023/12/manual_do_iniciante_victor_cazzoli.pdf
+   Conferência visual do PDF: páginas impressas 17–18 explicam pestana e
+   afinação; página 19 apresenta diagramas de acordes maiores; página 20 apresenta
+   menores e com sétima. Confirma a existência de material didático visual para
+   essas famílias. A revisão ainda não transcreveu e confirmou cada desenho da
+   matriz 7×4.
+
+2. Luiz Cesar Croset Junior — O ensino do cavaquinho: análise de métodos, questões
+   didáticas e propostas metodológicas. UNIRIO, 2020.
+   https://www.unirio.br/cla/ivl/cursos/luizcroset.pdf
+   Analisa métodos brasileiros, progressões, acordes, exercícios e levadas.
+   Defende contextualizar acordes em sequências e repertório, em vez de apresentar
+   somente um dicionário. Não define um ranking universal de digitações fáceis.
+
+3. Primeiros Acordes — Aprenda os Acordes no Cavaquinho — Aula 1, 2020.
+   https://primeirosacordes.com.br/cavaquinho-iniciante/aprenda-os-acordes-no-cavaquinho-aula-1
+   Apresenta modelos de acordes maiores e deslocamento de formas pelo braço.
+   Serve como apoio didático para trabalhar acordes e transposição; não valida as
+   28 posições candidatas desta pasta.
+
+4. Pedro Cantalice — Compêndio de Técnicas e Sonoridades para Cavaquinho
+   Brasileiro: Guia para compositores/arranjadores. PROMUS/UFRJ/FUNARTE.
+   https://promus.musica.ufrj.br/wp-content/uploads/2024/11/20241216-Pedro-Cantalice.pdf
+   Referência para possibilidades sonoras, voicings e escrita para o instrumento.
+   É voltado a compositores e arranjadores, não a escolher os primeiros acordes
+   de um iniciante.
+
+5. Instituto Federal do Ceará — Programa de Prática de Instrumento Específico:
+   Cavaquinho.
+   https://portal.ifce.edu.br/documents/14486/MUS024_-_Pr%C3%A1tica_de_Instrumento_Espec%C3%ADfico_II_Cavaquinho.pdf
+   Apoia a integração de técnica, acompanhamento, leitura, ritmo e repertório.
+   É uma disciplina técnica, não uma sequência pronta para este aluno.
+
+6. Dayse Gomes Mendes e Soely Aparecida Jorge Polydoro — Promoção da
+   autorregulação do ensino e da aprendizagem na prática instrumental. Revista da
+   ABEM, 2024.
+   https://revistaabem.abem.mus.br/revistaabem/article/download/1364/724/4944
+   Referência complementar para metas, estratégias de prática, acompanhamento e
+   autoavaliação; não é específica de cavaquinho.
+
+7. Bacani — “Entendendo o quadrado de samba, ou: Porquê comecei a estudar
+   harmonia”, partes 1 e 2, blog Seu Bacana, 2018–2019.
+   https://seubacana.blogspot.com/2019/01/entendendo-o-quadrado-de-samba-ou.html
+   Explica o quadrado de samba como I–VI7–IIm–V7 e mostra a sequência
+   C–A7–Dm–G7, inclusive um exemplo diagramado para cavaquinho. É uma referência
+   prática de autor, não um artigo acadêmico; usamos como apoio específico para o
+   termo e a forma da sequência, não como ranking de facilidade.
+
+8. Roberto Balduino Sergio — “Curso de Cavaquinho: Estudo dos Quadradinhos —
+   Harmonia 1”, Udemy, atualizado em 2023.
+   https://www.udemy.com/course/curso-de-cavaquinho-estudo-dos-quadradinhos-harmonia-1/
+   A descrição e o programa do curso usam “quadradinhos” para sequências de
+   cavaquinho em diferentes tonalidades. Confirma o uso didático do termo; não
+   substitui a conferência das posições nem é fonte independente para a matriz.
+
+QUADRADINHOS E PROGRESSÕES
+
+A análise prática do quadrado de samba descreve o padrão específico
+I–VI7–IIm–V7: quatro acordes ligados por funções harmônicas. Em Dó maior, o
+exemplo é C–A7–Dm–G7. Um curso de cavaquinho também usa “quadradinhos” para
+sequências ensinadas em várias tonalidades. Há variações e outros ciclos; não
+devemos chamar qualquer sequência de quatro acordes de quadradinho de samba sem
+verificar sua função.
+
+Não confundir:
+- campo harmônico maior: pode apresentar sete acordes diatônicos;
+- quadradinho de samba de referência: ciclo I–VI7–IIm–V7, com quatro acordes;
+- progressão longa: pode ligar dois ciclos ou ter seis ou sete mudanças, em nível
+  posterior.
+
+Com os acordes atuais, quadradinhos completos calculáveis existem em Dó, Ré, Fá,
+Sol e Si bemol. Outras tonalidades requerem acordes que a matriz não inclui, como
+F#m, C#7 ou F#7. Isso é um limite real do esqueleto atual, não motivo para
+inventar ou esconder acordes. A escolha final exige conferir repertório e
+digitações.
+
+CONCLUSÕES E LIMITES
+
+- A afinação e os diagramas precisam ser interpretados com a orientação das
+  cordas explícita.
+- A matriz do arquivo 07 tem 28 posições que passam na checagem das notas, mas a
+  pesquisa ainda não confirmou em fontes independentes cada desenho.
+- Nenhuma fonte consultada estabelece uma única lista universal dos acordes mais
+  fáceis para iniciantes ou prova a facilidade para a mão deste aluno.
+- A sequência deve partir da matriz, testar as posições, construir quadradinhos
+  e então associar duas levadas evolutivas e músicas compatíveis.

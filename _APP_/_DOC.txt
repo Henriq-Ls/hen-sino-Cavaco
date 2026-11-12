@@ -1,0 +1,23 @@
+DOCUMENTAÇÃO — INTERFACE PRINCIPAL
+
+CONFIGURAÇÕES VISUAIS
+
+O botão Configurações na barra lateral abre _APP_/settings_dialog.py. A janela
+permite selecionar uma das paletas prontas ou personalizar o fundo, painéis,
+menu lateral, texto principal e cor de destaque.
+
+Aplicar e salvar grava a preferência em AppData e atualiza a janela sem
+reiniciar. Ao abrir o aplicativo novamente, MainWindow lê o mesmo tema e aplica
+os estilos às páginas e ao diagrama de acorde. Cancelar fecha o diálogo sem
+alterar a escolha salva; Tema inicial restaura a paleta padrão.
+
+As cores auxiliares são derivadas para manter contraste e estados coerentes.
+Uma mensagem avisa quando a combinação escolhida de fundo e texto pode
+dificultar a leitura. O ícone de configurações e os ícones da paleta vêm de
+_UTILIDADES_/icones.py.
+
+OUTRAS TELAS
+
+As páginas Início, Trilha e Acordes continuam sendo montadas em pages/. Ao
+adicionar uma tela ou diálogo, use os textos e estilos centralizados em
+_CONFIGURA_/__init__.py e aplique o tema do usuário.

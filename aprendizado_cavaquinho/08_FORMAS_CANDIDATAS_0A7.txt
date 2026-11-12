@@ -1,0 +1,328 @@
+FORMAS CANDIDATAS DE CAVAQUINHO — CASAS 0 A 7
+Afinação de cálculo: Ré–Sol–Si–Ré (4ª→1ª). Limite: 7.
+Estado de todas as entradas: sugestão calculada, sem teste no instrumento.
+As posições exigem as quatro cordas, todos os tons do acorde e nenhuma nota alheia.
+Abertura = maior casa pressionada menos menor casa pressionada.
+A atribuição de dedos é uma hipótese geométrica; não comprova execução.
+
+## C — Dó maior (8 formas candidatas)
+   1. casas 5-5-5-5; dedos 1-1-1-1; pestana dedo 1 na casa 5 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Sol ×2
+   2. casas 2-0-1-2; dedos 1-0-2-3; pestana não; abertura 1; cordas soltas 3ª; baixo Mi (outra nota); notas repetidas Mi ×2 [FORMA ATUAL]
+   3. casas 2-5-5-5; dedos 1-2-2-2; pestana dedo 2 na casa 5 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2
+   4. casas 5-5-5-2; dedos 1-1-1-2; pestana dedo 1 na casa 5 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Mi ×2
+   5. casas 2-0-1-5; dedos 1-0-2-3; pestana não; abertura 4; cordas soltas 3ª; baixo Mi (outra nota); notas repetidas Sol ×2
+   6. casas 5-0-1-2; dedos 1-0-2-3; pestana não; abertura 4; cordas soltas 3ª; baixo Sol (outra nota); notas repetidas Sol ×2
+   7. casas 5-5-1-2; dedos 1-1-2-3; pestana dedo 1 na casa 5 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Dó ×2
+   8. casas 2-5-1-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Dó ×2
+
+## Cm — Dó menor (8 formas candidatas)
+   1. casas 1-0-1-1; dedos 1-0-2-2; pestana dedo 2 na casa 1 (2ª, 1ª); abertura 0; cordas soltas 3ª; baixo Ré# (outra nota); notas repetidas Ré# ×2 [FORMA ATUAL]
+   2. casas 5-5-4-5; dedos 1-1-2-3; pestana dedo 1 na casa 5 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Sol ×2
+   3. casas 5-0-1-1; dedos 1-0-2-2; pestana dedo 2 na casa 1 (2ª, 1ª); abertura 4; cordas soltas 3ª; baixo Sol (outra nota); notas repetidas Sol ×2
+   4. casas 5-5-1-1; dedos 1-1-2-2; pestana dedo 1 na casa 5 (4ª, 3ª); dedo 2 na casa 1 (2ª, 1ª); abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Dó ×2
+   5. casas 1-0-1-5; dedos 1-0-2-3; pestana não; abertura 4; cordas soltas 3ª; baixo Ré# (outra nota); notas repetidas Sol ×2
+   6. casas 5-5-4-1; dedos 1-1-2-3; pestana dedo 1 na casa 5 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Ré# ×2
+   7. casas 1-5-1-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Dó ×2
+   8. casas 1-5-4-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2
+
+## C7 — Dó com sétima dominante (2 formas candidatas)
+   1. casas 2-3-1-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas nenhuma [FORMA ATUAL]
+   2. casas 5-3-1-2; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas nenhuma
+
+## C# — Dó sustenido maior (8 formas candidatas)
+   1. casas 6-6-6-6; dedos 1-1-1-1; pestana dedo 1 na casa 6 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   2. casas 3-1-2-3; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2 [FORMA ATUAL]
+   3. casas 3-6-6-6; dedos 1-2-2-2; pestana dedo 2 na casa 6 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2
+   4. casas 6-6-6-3; dedos 1-1-1-2; pestana dedo 1 na casa 6 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Fá ×2
+   5. casas 6-6-2-3; dedos 1-1-2-3; pestana dedo 1 na casa 6 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Dó# ×2
+   6. casas 3-6-2-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Dó# ×2
+   7. casas 3-1-2-6; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Sol# ×2
+   8. casas 6-1-2-3; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+
+## C#m — Dó sustenido menor (8 formas candidatas)
+   1. casas 2-1-2-2; dedos 1-2-3-3; pestana dedo 3 na casa 2 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2
+   2. casas 6-6-5-6; dedos 1-1-2-3; pestana dedo 1 na casa 6 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   3. casas 6-6-2-2; dedos 1-1-2-2; pestana dedo 1 na casa 6 (4ª, 3ª); dedo 2 na casa 2 (2ª, 1ª); abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Dó# ×2
+   4. casas 6-6-5-2; dedos 1-1-2-3; pestana dedo 1 na casa 6 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Mi ×2
+   5. casas 2-6-2-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Dó# ×2
+   6. casas 2-6-5-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2
+   7. casas 6-1-2-2; dedos 1-2-3-3; pestana dedo 3 na casa 2 (2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   8. casas 2-1-2-6; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Sol# ×2
+
+## C#7 — Dó sustenido com sétima dominante (4 formas candidatas)
+   1. casas 6-6-0-3; dedos 1-1-0-2; pestana dedo 1 na casa 6 (4ª, 3ª); abertura 3; cordas soltas 2ª; baixo Sol# (outra nota); notas repetidas nenhuma
+   2. casas 3-6-0-6; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Fá (outra nota); notas repetidas nenhuma
+   3. casas 3-4-2-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas nenhuma
+   4. casas 6-4-2-3; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas nenhuma
+
+## D — Ré maior (17 formas candidatas)
+   1. casas 0-7-7-7; dedos 0-1-1-1; pestana dedo 1 na casa 7 (3ª, 2ª, 1ª); abertura 0; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Ré ×2
+   2. casas 7-7-7-0; dedos 1-1-1-0; pestana dedo 1 na casa 7 (4ª, 3ª, 2ª); abertura 0; cordas soltas 1ª; baixo Lá (outra nota); notas repetidas Ré ×2
+   3. casas 7-7-7-7; dedos 1-1-1-1; pestana dedo 1 na casa 7 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   4. casas 0-2-3-4; dedos 0-1-2-3; pestana não; abertura 2; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Ré ×2 [FORMA ATUAL]
+   5. casas 4-2-3-0; dedos 1-2-3-0; pestana não; abertura 2; cordas soltas 1ª; baixo Fá# (outra nota); notas repetidas Ré ×2
+   6. casas 4-2-3-4; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+   7. casas 4-7-7-7; dedos 1-2-2-2; pestana dedo 2 na casa 7 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+   8. casas 7-7-7-4; dedos 1-1-1-2; pestana dedo 1 na casa 7 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Fá# ×2
+   9. casas 7-7-3-4; dedos 1-1-2-3; pestana dedo 1 na casa 7 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Ré ×2
+  10. casas 4-7-3-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Ré ×2
+  11. casas 0-2-7-0; dedos 0-1-2-0; pestana não; abertura 5; cordas soltas 4ª, 1ª; baixo Ré (fundamental); notas repetidas Ré ×2
+  12. casas 0-2-7-7; dedos 0-1-2-2; pestana dedo 2 na casa 7 (2ª, 1ª); abertura 5; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Lá ×2
+  13. casas 0-2-7-4; dedos 0-1-2-3; pestana não; abertura 5; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Fá# ×2
+  14. casas 4-2-7-0; dedos 1-2-3-0; pestana não; abertura 5; cordas soltas 1ª; baixo Fá# (outra nota); notas repetidas Fá# ×2
+  15. casas 7-2-7-0; dedos 1-2-3-0; pestana não; abertura 5; cordas soltas 1ª; baixo Lá (outra nota); notas repetidas Lá ×2
+  16. casas 4-2-3-7; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Lá ×2
+  17. casas 7-2-3-4; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+
+## Dm — Ré menor (17 formas candidatas)
+   1. casas 0-2-3-3; dedos 0-1-2-2; pestana dedo 2 na casa 3 (2ª, 1ª); abertura 1; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Ré ×2 [FORMA ATUAL]
+   2. casas 7-7-6-0; dedos 1-1-2-0; pestana dedo 1 na casa 7 (4ª, 3ª); abertura 1; cordas soltas 1ª; baixo Lá (outra nota); notas repetidas Ré ×2
+   3. casas 3-2-3-0; dedos 1-2-3-0; pestana não; abertura 1; cordas soltas 1ª; baixo Fá (outra nota); notas repetidas Ré ×2
+   4. casas 0-7-6-7; dedos 0-1-2-3; pestana não; abertura 1; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Ré ×2
+   5. casas 3-2-3-3; dedos 1-2-3-3; pestana dedo 3 na casa 3 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2
+   6. casas 7-7-6-7; dedos 1-1-2-3; pestana dedo 1 na casa 7 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   7. casas 0-2-6-0; dedos 0-1-2-0; pestana não; abertura 4; cordas soltas 4ª, 1ª; baixo Ré (fundamental); notas repetidas Ré ×2
+   8. casas 7-7-3-3; dedos 1-1-2-2; pestana dedo 1 na casa 7 (4ª, 3ª); dedo 2 na casa 3 (2ª, 1ª); abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Ré ×2
+   9. casas 0-2-6-3; dedos 0-1-2-3; pestana não; abertura 4; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Fá ×2
+  10. casas 3-2-6-0; dedos 1-2-3-0; pestana não; abertura 4; cordas soltas 1ª; baixo Fá (outra nota); notas repetidas Fá ×2
+  11. casas 7-7-6-3; dedos 1-1-2-3; pestana dedo 1 na casa 7 (4ª, 3ª); abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Fá ×2
+  12. casas 3-7-3-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Ré ×2
+  13. casas 3-7-6-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2
+  14. casas 0-2-6-7; dedos 0-1-2-3; pestana não; abertura 5; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas Lá ×2
+  15. casas 7-2-6-0; dedos 1-2-3-0; pestana não; abertura 5; cordas soltas 1ª; baixo Lá (outra nota); notas repetidas Lá ×2
+  16. casas 7-2-3-3; dedos 1-2-3-3; pestana dedo 3 na casa 3 (2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+  17. casas 3-2-3-7; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Lá ×2
+
+## D7 — Ré com sétima dominante (8 formas candidatas)
+   1. casas 0-5-7-7; dedos 0-1-2-2; pestana dedo 2 na casa 7 (2ª, 1ª); abertura 2; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas nenhuma
+   2. casas 7-5-7-0; dedos 1-2-3-0; pestana não; abertura 2; cordas soltas 1ª; baixo Lá (outra nota); notas repetidas nenhuma
+   3. casas 0-2-1-4; dedos 0-1-2-3; pestana não; abertura 3; cordas soltas 4ª; baixo Ré (fundamental); notas repetidas nenhuma [FORMA ATUAL]
+   4. casas 4-2-1-0; dedos 1-2-3-0; pestana não; abertura 3; cordas soltas 1ª; baixo Fá# (outra nota); notas repetidas nenhuma
+   5. casas 4-5-3-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas nenhuma
+   6. casas 7-5-3-4; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma
+   7. casas 7-7-1-4; dedos 1-1-2-3; pestana dedo 1 na casa 7 (4ª, 3ª); abertura 6; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma
+   8. casas 4-7-1-7; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas nenhuma
+
+## D# — Ré sustenido maior (3 formas candidatas)
+   1. casas 5-3-4-5; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Sol ×2
+   2. casas 1-3-4-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Ré# (fundamental); notas repetidas Ré# ×2 [FORMA ATUAL]
+   3. casas 5-3-4-1; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Ré# ×2
+
+## D#m — Ré sustenido menor (6 formas candidatas)
+   1. casas 4-3-4-4; dedos 1-2-3-3; pestana dedo 3 na casa 4 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+   2. casas 1-3-4-4; dedos 1-2-3-3; pestana dedo 3 na casa 4 (2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Ré# (fundamental); notas repetidas Ré# ×2
+   3. casas 4-3-4-1; dedos 1-2-3-4; pestana não; abertura 3; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Ré# ×2
+   4. casas 1-3-7-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (fundamental); notas repetidas Ré# ×2
+   5. casas 1-3-7-4; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (fundamental); notas repetidas Fá# ×2
+   6. casas 4-3-7-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+
+## D#7 — Ré sustenido com sétima dominante (2 formas candidatas)
+   1. casas 1-3-2-5; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Ré# (fundamental); notas repetidas nenhuma
+   2. casas 5-3-2-1; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas nenhuma
+
+## E — Mi maior (8 formas candidatas)
+   1. casas 2-1-0-2; dedos 1-2-0-3; pestana não; abertura 1; cordas soltas 2ª; baixo Mi (fundamental); notas repetidas Mi ×2 [FORMA ATUAL]
+   2. casas 6-4-5-6; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   3. casas 2-4-0-6; dedos 1-2-0-3; pestana não; abertura 4; cordas soltas 2ª; baixo Mi (fundamental); notas repetidas Si ×2
+   4. casas 6-4-0-2; dedos 1-2-0-3; pestana não; abertura 4; cordas soltas 2ª; baixo Sol# (outra nota); notas repetidas Si ×2
+   5. casas 2-4-5-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (fundamental); notas repetidas Mi ×2
+   6. casas 6-4-5-2; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Mi ×2
+   7. casas 2-1-0-6; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Mi (fundamental); notas repetidas Sol# ×2
+   8. casas 6-1-0-2; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Sol# (outra nota); notas repetidas Sol# ×2
+
+## Em — Mi menor (8 formas candidatas)
+   1. casas 2-0-0-2; dedos 1-0-0-2; pestana não; abertura 0; cordas soltas 3ª, 2ª; baixo Mi (fundamental); notas repetidas Mi ×2 [FORMA ATUAL]
+   2. casas 5-4-5-5; dedos 1-2-3-3; pestana dedo 3 na casa 5 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Sol ×2
+   3. casas 2-0-0-5; dedos 1-0-0-2; pestana não; abertura 3; cordas soltas 3ª, 2ª; baixo Mi (fundamental); notas repetidas Sol ×2
+   4. casas 5-0-0-2; dedos 1-0-0-2; pestana não; abertura 3; cordas soltas 3ª, 2ª; baixo Sol (outra nota); notas repetidas Sol ×2
+   5. casas 2-4-0-5; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Mi (fundamental); notas repetidas Si ×2
+   6. casas 5-4-0-2; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Sol (outra nota); notas repetidas Si ×2
+   7. casas 2-4-5-5; dedos 1-2-3-3; pestana dedo 3 na casa 5 (2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Mi (fundamental); notas repetidas Mi ×2
+   8. casas 5-4-5-2; dedos 1-2-3-4; pestana não; abertura 3; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas Mi ×2
+
+## E7 — Mi com sétima dominante (8 formas candidatas)
+   1. casas 0-1-0-2; dedos 0-1-0-2; pestana não; abertura 1; cordas soltas 4ª, 2ª; baixo Ré (outra nota); notas repetidas nenhuma [FORMA ATUAL]
+   2. casas 2-1-0-0; dedos 1-2-0-0; pestana não; abertura 1; cordas soltas 2ª, 1ª; baixo Mi (fundamental); notas repetidas nenhuma
+   3. casas 0-4-5-6; dedos 0-1-2-3; pestana não; abertura 2; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas nenhuma
+   4. casas 6-4-5-0; dedos 1-2-3-0; pestana não; abertura 2; cordas soltas 1ª; baixo Sol# (outra nota); notas repetidas nenhuma
+   5. casas 2-4-3-6; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Mi (fundamental); notas repetidas nenhuma
+   6. casas 6-4-3-2; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas nenhuma
+   7. casas 2-7-0-6; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Mi (fundamental); notas repetidas nenhuma
+   8. casas 6-7-0-2; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Sol# (outra nota); notas repetidas nenhuma
+
+## F — Fá maior (8 formas candidatas)
+   1. casas 3-2-1-3; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Fá ×2 [FORMA ATUAL]
+   2. casas 7-5-6-7; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   3. casas 3-5-6-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Fá ×2
+   4. casas 7-5-6-3; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Fá ×2
+   5. casas 3-2-1-7; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Lá ×2
+   6. casas 7-2-1-3; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   7. casas 3-5-1-7; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Dó ×2
+   8. casas 7-5-1-3; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Dó ×2
+
+## Fm — Fá menor (8 formas candidatas)
+   1. casas 6-5-6-6; dedos 1-2-3-3; pestana dedo 3 na casa 6 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   2. casas 3-1-1-3; dedos 1-2-2-3; pestana dedo 2 na casa 1 (3ª, 2ª); abertura 2; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Fá ×2 [FORMA ATUAL]
+   3. casas 3-5-6-6; dedos 1-2-3-3; pestana dedo 3 na casa 6 (2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Fá ×2
+   4. casas 6-5-6-3; dedos 1-2-3-4; pestana não; abertura 3; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Fá ×2
+   5. casas 3-1-1-6; dedos 1-2-2-3; pestana dedo 2 na casa 1 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Sol# ×2
+   6. casas 6-1-1-3; dedos 1-2-2-3; pestana dedo 2 na casa 1 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Sol# ×2
+   7. casas 3-5-1-6; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas Dó ×2
+   8. casas 6-5-1-3; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas Dó ×2
+
+## F7 — Fá com sétima dominante (6 formas candidatas)
+   1. casas 3-2-1-1; dedos 1-2-3-3; pestana dedo 3 na casa 1 (2ª, 1ª); abertura 2; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas nenhuma [FORMA ATUAL]
+   2. casas 1-2-1-3; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas nenhuma
+   3. casas 3-5-4-7; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Fá (fundamental); notas repetidas nenhuma
+   4. casas 7-5-4-3; dedos 1-2-3-4; pestana não; abertura 4; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma
+   5. casas 1-5-6-7; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas nenhuma
+   6. casas 7-5-6-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma
+
+## F# — Fá sustenido maior (1 formas candidatas)
+   1. casas 4-3-2-4; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas Fá# ×2 [FORMA ATUAL]
+
+## F#m — Fá sustenido menor (8 formas candidatas)
+   1. casas 7-6-7-7; dedos 1-2-3-3; pestana dedo 3 na casa 7 (2ª, 1ª); abertura 1; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   2. casas 4-2-2-4; dedos 1-2-2-3; pestana dedo 2 na casa 2 (3ª, 2ª); abertura 2; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas Fá# ×2
+   3. casas 4-6-7-7; dedos 1-2-3-3; pestana dedo 3 na casa 7 (2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas Fá# ×2
+   4. casas 7-6-7-4; dedos 1-2-3-4; pestana não; abertura 3; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Fá# ×2
+   5. casas 4-2-2-7; dedos 1-2-2-3; pestana dedo 2 na casa 2 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas Lá ×2
+   6. casas 7-2-2-4; dedos 1-2-2-3; pestana dedo 2 na casa 2 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Lá ×2
+   7. casas 4-6-2-7; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas Dó# ×2
+   8. casas 7-6-2-4; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas Dó# ×2
+
+## F#7 — Fá sustenido com sétima dominante (2 formas candidatas)
+   1. casas 4-3-2-2; dedos 1-2-3-3; pestana dedo 3 na casa 2 (2ª, 1ª); abertura 2; cordas soltas nenhuma; baixo Fá# (fundamental); notas repetidas nenhuma
+   2. casas 2-3-2-4; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas nenhuma
+
+## G — Sol maior (11 formas candidatas)
+   1. casas 0-0-0-0; dedos 0-0-0-0; pestana não; abertura 0; cordas soltas 4ª, 3ª, 2ª, 1ª; baixo Ré (outra nota); notas repetidas Ré ×2 [FORMA ATUAL]
+   2. casas 0-0-0-5; dedos 0-0-0-1; pestana não; abertura 0; cordas soltas 4ª, 3ª, 2ª; baixo Ré (outra nota); notas repetidas Sol ×2
+   3. casas 5-0-0-0; dedos 1-0-0-0; pestana não; abertura 0; cordas soltas 3ª, 2ª, 1ª; baixo Sol (fundamental); notas repetidas Sol ×2
+   4. casas 0-4-0-5; dedos 0-1-0-2; pestana não; abertura 1; cordas soltas 4ª, 2ª; baixo Ré (outra nota); notas repetidas Si ×2
+   5. casas 5-4-0-0; dedos 1-2-0-0; pestana não; abertura 1; cordas soltas 2ª, 1ª; baixo Sol (fundamental); notas repetidas Si ×2
+   6. casas 0-7-0-5; dedos 0-1-0-2; pestana não; abertura 2; cordas soltas 4ª, 2ª; baixo Ré (outra nota); notas repetidas Ré ×2
+   7. casas 5-7-0-0; dedos 1-2-0-0; pestana não; abertura 2; cordas soltas 2ª, 1ª; baixo Sol (fundamental); notas repetidas Ré ×2
+   8. casas 0-4-3-5; dedos 0-1-2-3; pestana não; abertura 2; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Ré ×2
+   9. casas 5-4-3-0; dedos 1-2-3-0; pestana não; abertura 2; cordas soltas 1ª; baixo Sol (fundamental); notas repetidas Ré ×2
+  10. casas 5-7-0-5; dedos 1-2-0-3; pestana não; abertura 2; cordas soltas 2ª; baixo Sol (fundamental); notas repetidas Sol ×2
+  11. casas 5-4-3-5; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Sol (fundamental); notas repetidas Sol ×2
+
+## Gm — Sol menor (3 formas candidatas)
+   1. casas 0-3-3-5; dedos 0-1-1-2; pestana dedo 1 na casa 3 (3ª, 2ª); abertura 2; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Ré ×2 [FORMA ATUAL]
+   2. casas 5-3-3-0; dedos 1-2-2-0; pestana dedo 2 na casa 3 (3ª, 2ª); abertura 2; cordas soltas 1ª; baixo Sol (fundamental); notas repetidas Ré ×2
+   3. casas 5-3-3-5; dedos 1-2-2-3; pestana dedo 2 na casa 3 (3ª, 2ª); abertura 2; cordas soltas nenhuma; baixo Sol (fundamental); notas repetidas Sol ×2
+
+## G7 — Sol com sétima dominante (8 formas candidatas)
+   1. casas 0-0-0-3; dedos 0-0-0-1; pestana não; abertura 0; cordas soltas 4ª, 3ª, 2ª; baixo Ré (outra nota); notas repetidas nenhuma [FORMA ATUAL]
+   2. casas 3-0-0-0; dedos 1-0-0-0; pestana não; abertura 0; cordas soltas 3ª, 2ª, 1ª; baixo Fá (outra nota); notas repetidas nenhuma
+   3. casas 0-4-6-5; dedos 0-1-2-3; pestana não; abertura 2; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas nenhuma
+   4. casas 5-4-6-0; dedos 1-2-3-0; pestana não; abertura 2; cordas soltas 1ª; baixo Sol (fundamental); notas repetidas nenhuma
+   5. casas 5-4-3-3; dedos 1-2-3-3; pestana dedo 3 na casa 3 (2ª, 1ª); abertura 2; cordas soltas nenhuma; baixo Sol (fundamental); notas repetidas nenhuma
+   6. casas 3-4-3-5; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas nenhuma
+   7. casas 3-7-0-5; dedos 1-2-0-3; pestana não; abertura 4; cordas soltas 2ª; baixo Fá (outra nota); notas repetidas nenhuma
+   8. casas 5-7-0-3; dedos 1-2-0-3; pestana não; abertura 4; cordas soltas 2ª; baixo Sol (fundamental); notas repetidas nenhuma
+
+## G# — Sol sustenido maior (8 formas candidatas)
+   1. casas 1-1-1-1; dedos 1-1-1-1; pestana dedo 1 na casa 1 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2 [FORMA ATUAL]
+   2. casas 6-5-4-6; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Sol# ×2
+   3. casas 1-1-1-6; dedos 1-1-1-2; pestana dedo 1 na casa 1 (4ª, 3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Sol# ×2
+   4. casas 6-1-1-1; dedos 1-2-2-2; pestana dedo 2 na casa 1 (3ª, 2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Sol# ×2
+   5. casas 6-5-1-1; dedos 1-2-3-3; pestana dedo 3 na casa 1 (2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Dó ×2
+   6. casas 1-5-1-6; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Dó ×2
+   7. casas 1-5-4-6; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2
+   8. casas 6-5-4-1; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Ré# ×2
+
+## G#m — Sol sustenido menor (8 formas candidatas)
+   1. casas 1-1-0-1; dedos 1-1-0-2; pestana dedo 1 na casa 1 (4ª, 3ª); abertura 0; cordas soltas 2ª; baixo Ré# (outra nota); notas repetidas Ré# ×2
+   2. casas 6-4-4-6; dedos 1-2-2-3; pestana dedo 2 na casa 4 (3ª, 2ª); abertura 2; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Sol# ×2
+   3. casas 1-1-0-6; dedos 1-1-0-2; pestana dedo 1 na casa 1 (4ª, 3ª); abertura 5; cordas soltas 2ª; baixo Ré# (outra nota); notas repetidas Sol# ×2
+   4. casas 6-1-0-1; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Sol# (fundamental); notas repetidas Sol# ×2
+   5. casas 1-4-0-6; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Ré# (outra nota); notas repetidas Si ×2
+   6. casas 6-4-0-1; dedos 1-2-0-3; pestana não; abertura 5; cordas soltas 2ª; baixo Sol# (fundamental); notas repetidas Si ×2
+   7. casas 1-4-4-6; dedos 1-2-2-3; pestana dedo 2 na casa 4 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2
+   8. casas 6-4-4-1; dedos 1-2-2-3; pestana dedo 2 na casa 4 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas Ré# ×2
+
+## G#7 — Sol sustenido com sétima dominante (6 formas candidatas)
+   1. casas 6-5-4-4; dedos 1-2-3-3; pestana dedo 3 na casa 4 (2ª, 1ª); abertura 2; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas nenhuma
+   2. casas 4-5-4-6; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas nenhuma
+   3. casas 1-1-1-4; dedos 1-1-1-2; pestana dedo 1 na casa 1 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas nenhuma
+   4. casas 4-1-1-1; dedos 1-2-2-2; pestana dedo 2 na casa 1 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas nenhuma
+   5. casas 1-5-7-6; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas nenhuma
+   6. casas 6-5-7-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Sol# (fundamental); notas repetidas nenhuma
+
+## A — Lá maior (8 formas candidatas)
+   1. casas 2-2-2-2; dedos 1-1-1-1; pestana dedo 1 na casa 2 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2 [FORMA ATUAL]
+   2. casas 7-6-5-7; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Lá ×2
+   3. casas 2-2-2-7; dedos 1-1-1-2; pestana dedo 1 na casa 2 (4ª, 3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Lá ×2
+   4. casas 7-2-2-2; dedos 1-2-2-2; pestana dedo 2 na casa 2 (3ª, 2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Lá ×2
+   5. casas 7-6-2-2; dedos 1-2-3-3; pestana dedo 3 na casa 2 (2ª, 1ª); abertura 5; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Dó# ×2
+   6. casas 2-6-2-7; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Dó# ×2
+   7. casas 2-6-5-7; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2
+   8. casas 7-6-5-2; dedos 1-2-3-4; pestana não; abertura 5; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Mi ×2
+
+## Am — Lá menor (8 formas candidatas)
+   1. casas 2-2-1-2; dedos 1-1-2-3; pestana dedo 1 na casa 2 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2 [FORMA ATUAL]
+   2. casas 7-5-5-7; dedos 1-2-2-3; pestana dedo 2 na casa 5 (3ª, 2ª); abertura 2; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Lá ×2
+   3. casas 2-5-5-7; dedos 1-2-2-3; pestana dedo 2 na casa 5 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Mi ×2
+   4. casas 7-5-5-2; dedos 1-2-2-3; pestana dedo 2 na casa 5 (3ª, 2ª); abertura 5; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Mi ×2
+   5. casas 2-2-1-7; dedos 1-1-2-3; pestana dedo 1 na casa 2 (4ª, 3ª); abertura 6; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Lá ×2
+   6. casas 7-2-1-2; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Lá ×2
+   7. casas 2-5-1-7; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas Dó ×2
+   8. casas 7-5-1-2; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas Dó ×2
+
+## A7 — Lá com sétima dominante (6 formas candidatas)
+   1. casas 7-6-5-5; dedos 1-2-3-3; pestana dedo 3 na casa 5 (2ª, 1ª); abertura 2; cordas soltas nenhuma; baixo Lá (fundamental); notas repetidas nenhuma
+   2. casas 5-6-5-7; dedos 1-2-3-4; pestana não; abertura 2; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas nenhuma
+   3. casas 2-2-2-5; dedos 1-1-1-2; pestana dedo 1 na casa 2 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Mi (outra nota); notas repetidas nenhuma [FORMA ATUAL]
+   4. casas 5-2-2-2; dedos 1-2-2-2; pestana dedo 2 na casa 2 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Sol (outra nota); notas repetidas nenhuma
+   5. casas 7-0-2-2; dedos 1-0-2-2; pestana dedo 2 na casa 2 (2ª, 1ª); abertura 5; cordas soltas 3ª; baixo Lá (fundamental); notas repetidas nenhuma
+   6. casas 2-0-2-7; dedos 1-0-2-3; pestana não; abertura 5; cordas soltas 3ª; baixo Mi (outra nota); notas repetidas nenhuma
+
+## A# — Lá sustenido maior (6 formas candidatas)
+   1. casas 0-3-3-3; dedos 0-1-1-1; pestana dedo 1 na casa 3 (3ª, 2ª, 1ª); abertura 0; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Ré ×2 [FORMA ATUAL]
+   2. casas 3-3-3-0; dedos 1-1-1-0; pestana dedo 1 na casa 3 (4ª, 3ª, 2ª); abertura 0; cordas soltas 1ª; baixo Fá (outra nota); notas repetidas Ré ×2
+   3. casas 3-3-3-3; dedos 1-1-1-1; pestana dedo 1 na casa 3 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2
+   4. casas 0-3-6-0; dedos 0-1-2-0; pestana não; abertura 3; cordas soltas 4ª, 1ª; baixo Ré (outra nota); notas repetidas Ré ×2
+   5. casas 3-3-6-0; dedos 1-1-2-0; pestana dedo 1 na casa 3 (4ª, 3ª); abertura 3; cordas soltas 1ª; baixo Fá (outra nota); notas repetidas Fá ×2
+   6. casas 0-3-6-3; dedos 0-1-2-3; pestana não; abertura 3; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Fá ×2
+
+## A#m — Lá sustenido menor (1 formas candidatas)
+   1. casas 3-3-2-3; dedos 1-1-2-3; pestana dedo 1 na casa 3 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas Fá ×2
+
+## A#7 — Lá sustenido com sétima dominante (4 formas candidatas)
+   1. casas 0-3-6-6; dedos 0-1-2-2; pestana dedo 2 na casa 6 (2ª, 1ª); abertura 3; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas nenhuma
+   2. casas 3-3-3-6; dedos 1-1-1-2; pestana dedo 1 na casa 3 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Fá (outra nota); notas repetidas nenhuma
+   3. casas 6-3-3-3; dedos 1-2-2-2; pestana dedo 2 na casa 3 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Sol# (outra nota); notas repetidas nenhuma
+   4. casas 6-3-6-0; dedos 1-2-3-0; pestana não; abertura 3; cordas soltas 1ª; baixo Sol# (outra nota); notas repetidas nenhuma
+
+## B — Si maior (8 formas candidatas)
+   1. casas 4-4-4-4; dedos 1-1-1-1; pestana dedo 1 na casa 4 (4ª, 3ª, 2ª, 1ª); abertura 0; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2 [FORMA ATUAL]
+   2. casas 4-4-0-1; dedos 1-1-0-2; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 3; cordas soltas 2ª; baixo Fá# (outra nota); notas repetidas Si ×2
+   3. casas 1-4-4-4; dedos 1-2-2-2; pestana dedo 2 na casa 4 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2
+   4. casas 4-4-4-1; dedos 1-1-1-2; pestana dedo 1 na casa 4 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Ré# ×2
+   5. casas 1-4-0-4; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Ré# (outra nota); notas repetidas Si ×2
+   6. casas 4-4-7-1; dedos 1-1-2-3; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 6; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+   7. casas 1-4-7-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Ré# ×2
+   8. casas 1-4-7-4; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas Fá# ×2
+
+## Bm — Si menor (11 formas candidatas)
+   1. casas 4-4-0-0; dedos 1-1-0-0; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 0; cordas soltas 2ª, 1ª; baixo Fá# (outra nota); notas repetidas Si ×2
+   2. casas 0-4-0-4; dedos 0-1-0-2; pestana não; abertura 0; cordas soltas 4ª, 2ª; baixo Ré (outra nota); notas repetidas Si ×2
+   3. casas 4-4-3-0; dedos 1-1-2-0; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 1; cordas soltas 1ª; baixo Fá# (outra nota); notas repetidas Ré ×2
+   4. casas 0-4-3-4; dedos 0-1-2-3; pestana não; abertura 1; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Ré ×2 [FORMA ATUAL]
+   5. casas 4-4-3-4; dedos 1-1-2-3; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 1; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas Fá# ×2
+   6. casas 0-4-7-0; dedos 0-1-2-0; pestana não; abertura 3; cordas soltas 4ª, 1ª; baixo Ré (outra nota); notas repetidas Ré ×2
+   7. casas 0-7-0-4; dedos 0-1-0-2; pestana não; abertura 3; cordas soltas 4ª, 2ª; baixo Ré (outra nota); notas repetidas Ré ×2
+   8. casas 4-7-0-0; dedos 1-2-0-0; pestana não; abertura 3; cordas soltas 2ª, 1ª; baixo Fá# (outra nota); notas repetidas Ré ×2
+   9. casas 4-4-7-0; dedos 1-1-2-0; pestana dedo 1 na casa 4 (4ª, 3ª); abertura 3; cordas soltas 1ª; baixo Fá# (outra nota); notas repetidas Fá# ×2
+  10. casas 0-4-7-4; dedos 0-1-2-3; pestana não; abertura 3; cordas soltas 4ª; baixo Ré (outra nota); notas repetidas Fá# ×2
+  11. casas 4-7-0-4; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Fá# (outra nota); notas repetidas Fá# ×2
+
+## B7 — Si com sétima dominante (6 formas candidatas)
+   1. casas 4-4-4-7; dedos 1-1-1-2; pestana dedo 1 na casa 4 (4ª, 3ª, 2ª); abertura 3; cordas soltas nenhuma; baixo Fá# (outra nota); notas repetidas nenhuma
+   2. casas 7-4-4-4; dedos 1-2-2-2; pestana dedo 2 na casa 4 (3ª, 2ª, 1ª); abertura 3; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma
+   3. casas 1-2-0-4; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Ré# (outra nota); notas repetidas nenhuma [FORMA ATUAL]
+   4. casas 4-2-0-1; dedos 1-2-0-3; pestana não; abertura 3; cordas soltas 2ª; baixo Fá# (outra nota); notas repetidas nenhuma
+   5. casas 1-4-7-7; dedos 1-2-3-3; pestana dedo 3 na casa 7 (2ª, 1ª); abertura 6; cordas soltas nenhuma; baixo Ré# (outra nota); notas repetidas nenhuma
+   6. casas 7-4-7-1; dedos 1-2-3-4; pestana não; abertura 6; cordas soltas nenhuma; baixo Lá (outra nota); notas repetidas nenhuma

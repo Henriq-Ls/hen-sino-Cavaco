@@ -1,0 +1,18 @@
+{
+  "pip": {
+    "versao": "26.3",
+    "instalado_em": "2026-11-11T23:03:14"
+  },
+  "packaging": {
+    "versao": "26.3",
+    "instalado_em": "2026-11-11T23:03:30"
+  },
+  "setuptools": {
+    "versao": "84.2.1",
+    "instalado_em": "2026-11-11T23:03:30"
+  },
+  "wheel": {
+    "versao": "0.48.0",
+    "instalado_em": "2026-11-11T23:03:30"
+  }
+}

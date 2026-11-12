@@ -1,0 +1,23 @@
+# Pasta arquivos config.json ou /config.json
+# Pasta somente FFmpeg/ ou /FFmpeg/
+# Ignora somente na raiz do projeto coloca / antes do nome= /FFmpeg/
+# Ignora em qualquer lugar do projeto = FFmpeg/
+# Ignora arquivos com determinada extensão em qualquer lugar *.pyc ou *.log
+*.py[cod] significa ignorar arquivos Python compilados.
+#------------ COLOCADO AUTOMATICO
+__pycache__/
+.venv/
+.hein/
+.hen/
+.zed/
+*.py[cod]
+*.bak
+
+#------------ PASTAS
+FFMPEG/
+teste/
+
+
+#------------ ARQUIVOS
+Rasc.py
+Rascunho.py

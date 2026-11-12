@@ -1,0 +1,115 @@
+SEQUÊNCIAS CÍCLICAS AVALIADAS
+Cada ciclo inclui a troca do último acorde de volta ao primeiro.
+Estado: sugestão calculada, sem teste no instrumento. O custo é uma soma heurística, não uma medida objetiva de conforto.
+Custo por troca = dedos reposicionados + diferença entre as menores casas pressionadas + cordas cuja casa muda.
+Cada acorde mantém a mesma forma durante todo o ciclo.
+
+## 1. G – D – Em – C
+Custo calculado do ciclo: 22
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- G: casas 0-4-3-5; dedos 0-1-2-3; baixo Ré.
+- D: casas 0-2-3-4; dedos 0-1-2-3; baixo Ré.
+- Em: casas 2-0-0-5; dedos 1-0-0-2; baixo Mi.
+- C: casas 2-5-5-5; dedos 1-2-2-2; baixo Mi.
+Trocas, incluindo a volta:
+- G → D: dedos 2, deslocamento 1 casas, cordas 2; custo 5.
+- D → Em: dedos 3, deslocamento 0 casas, cordas 4; custo 7.
+- Em → C: dedos 1, deslocamento 0 casas, cordas 2; custo 3.
+- C → G: dedos 3, deslocamento 1 casas, cordas 3; custo 7.
+
+## 2. C – Am – F – G
+Custo calculado do ciclo: 21
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- C: casas 5-5-5-5; dedos 1-1-1-1; baixo Sol.
+- Am: casas 7-5-5-7; dedos 1-2-2-3; baixo Lá.
+- F: casas 7-5-6-7; dedos 1-2-3-4; baixo Lá.
+- G: casas 0-0-0-5; dedos 0-0-0-1; baixo Ré.
+Trocas, incluindo a volta:
+- C → Am: dedos 3, deslocamento 0 casas, cordas 2; custo 5.
+- Am → F: dedos 3, deslocamento 0 casas, cordas 1; custo 4.
+- F → G: dedos 4, deslocamento 0 casas, cordas 4; custo 8.
+- G → C: dedos 1, deslocamento 0 casas, cordas 3; custo 4.
+
+## 3. D – Bm – A – G
+Custo calculado do ciclo: 24
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- D: casas 0-2-3-4; dedos 0-1-2-3; baixo Ré.
+- Bm: casas 0-4-3-4; dedos 0-1-2-3; baixo Ré.
+- A: casas 2-2-2-2; dedos 1-1-1-1; baixo Mi.
+- G: casas 0-4-3-5; dedos 0-1-2-3; baixo Ré.
+Trocas, incluindo a volta:
+- D → Bm: dedos 1, deslocamento 1 casas, cordas 1; custo 3.
+- Bm → A: dedos 3, deslocamento 1 casas, cordas 4; custo 8.
+- A → G: dedos 3, deslocamento 1 casas, cordas 4; custo 8.
+- G → D: dedos 2, deslocamento 1 casas, cordas 2; custo 5.
+
+## 4. C – G – Bm – Em
+Custo calculado do ciclo: 19
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- C: casas 5-5-5-5; dedos 1-1-1-1; baixo Sol.
+- G: casas 5-0-0-0; dedos 1-0-0-0; baixo Sol.
+- Bm: casas 4-4-0-0; dedos 1-1-0-0; baixo Fá#.
+- Em: casas 5-4-5-5; dedos 1-2-3-3; baixo Sol.
+Trocas, incluindo a volta:
+- C → G: dedos 1, deslocamento 0 casas, cordas 3; custo 4.
+- G → Bm: dedos 1, deslocamento 1 casas, cordas 2; custo 4.
+- Bm → Em: dedos 3, deslocamento 0 casas, cordas 3; custo 6.
+- Em → C: dedos 3, deslocamento 1 casas, cordas 1; custo 5.
+
+## 5. E – C#m – F#m – B7 – A – B
+Custo calculado do ciclo: 34
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- E: casas 2-1-0-2; dedos 1-2-0-3; baixo Mi.
+- C#m: casas 2-1-2-2; dedos 1-2-3-3; baixo Mi.
+- F#m: casas 4-2-2-4; dedos 1-2-2-3; baixo Fá#.
+- B7: casas 1-2-0-4; dedos 1-2-0-3; baixo Ré#.
+- A: casas 2-2-2-2; dedos 1-1-1-1; baixo Mi.
+- B: casas 4-4-0-1; dedos 1-1-0-2; baixo Fá#.
+Trocas, incluindo a volta:
+- E → C#m: dedos 1, deslocamento 0 casas, cordas 1; custo 2.
+- C#m → F#m: dedos 3, deslocamento 1 casas, cordas 3; custo 7.
+- F#m → B7: dedos 2, deslocamento 1 casas, cordas 2; custo 5.
+- B7 → A: dedos 3, deslocamento 1 casas, cordas 3; custo 7.
+- A → B: dedos 2, deslocamento 1 casas, cordas 4; custo 7.
+- B → E: dedos 3, deslocamento 0 casas, cordas 3; custo 6.
+
+## 6. G#m – E – B – F#
+Custo calculado do ciclo: 25
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- G#m: casas 6-1-0-1; dedos 1-2-0-3; baixo Sol#.
+- E: casas 6-1-0-2; dedos 1-2-0-3; baixo Sol#.
+- B: casas 4-4-0-1; dedos 1-1-0-2; baixo Fá#.
+- F#: casas 4-3-2-4; dedos 1-2-3-4; baixo Fá#.
+Trocas, incluindo a volta:
+- G#m → E: dedos 1, deslocamento 0 casas, cordas 1; custo 2.
+- E → B: dedos 3, deslocamento 0 casas, cordas 3; custo 6.
+- B → F#: dedos 4, deslocamento 1 casas, cordas 3; custo 8.
+- F# → G#m: dedos 4, deslocamento 1 casas, cordas 4; custo 9.
+
+## 7. F# – B – D#m – C#
+Custo calculado do ciclo: 24
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- F#: casas 4-3-2-4; dedos 1-2-3-4; baixo Fá#.
+- B: casas 1-4-7-4; dedos 1-2-3-4; baixo Ré#.
+- D#m: casas 1-3-7-4; dedos 1-2-3-4; baixo Ré#.
+- C#: casas 3-1-2-3; dedos 1-2-3-4; baixo Fá.
+Trocas, incluindo a volta:
+- F# → B: dedos 3, deslocamento 1 casas, cordas 3; custo 7.
+- B → D#m: dedos 1, deslocamento 0 casas, cordas 1; custo 2.
+- D#m → C#: dedos 4, deslocamento 0 casas, cordas 4; custo 8.
+- C# → F#: dedos 3, deslocamento 1 casas, cordas 3; custo 7.
+
+## 8. Dm – Bb – F – Em – G
+Custo calculado do ciclo: 29
+Combinação de menor custo heurístico entre os candidatos avaliados:
+- Dm: casas 0-2-6-0; dedos 0-1-2-0; baixo Ré.
+- Bb: casas 0-3-6-0; dedos 0-1-2-0; baixo Ré.
+- F: casas 3-5-6-7; dedos 1-2-3-4; baixo Fá.
+- Em: casas 5-4-5-5; dedos 1-2-3-3; baixo Sol.
+- G: casas 5-4-0-0; dedos 1-2-0-0; baixo Sol.
+Trocas, incluindo a volta:
+- Dm → Bb: dedos 1, deslocamento 1 casas, cordas 1; custo 3.
+- Bb → F: dedos 4, deslocamento 0 casas, cordas 3; custo 7.
+- F → Em: dedos 4, deslocamento 1 casas, cordas 4; custo 9.
+- Em → G: dedos 1, deslocamento 0 casas, cordas 2; custo 3.
+- G → Dm: dedos 2, deslocamento 2 casas, cordas 3; custo 7.

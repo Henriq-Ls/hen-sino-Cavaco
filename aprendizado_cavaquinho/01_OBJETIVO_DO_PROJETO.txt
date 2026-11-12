@@ -1,0 +1,65 @@
+OBJETIVO DO PROJETO
+
+Desenvolver um professor virtual de cavaquinho brasileiro que ajude o aluno a
+aprender samba e pagode a partir de um conjunto de acordes pequeno, claro e
+praticado repetidamente. O curso deve ligar o nome do acorde à sua posição no
+braço, à troca de acordes, ao ritmo e à leitura de músicas.
+
+PROBLEMA QUE O CURSO PRECISA RESOLVER
+
+O aluno está travado porque não sabe quais acordes estudar primeiro. Tabelas
+cheias de formas e variações não dizem quais são prioritárias, quais são mais
+acessíveis para sua mão nem como combinar os acordes para acompanhar músicas.
+
+O primeiro trabalho pedagógico é, portanto, definir e testar o conjunto de
+acordes. Depois disso, montar quadradinhos, selecionar levadas e escolher músicas
+compatíveis. O foco seguinte é aprender quadradinhos de samba de quatro acordes
+e associá-los a músicas. O projeto não deve começar por uma lista extensa de
+músicas ou por mais teoria sem resolver essa sequência.
+
+O primeiro quadradinho a testar será G–E7–Am–D7, por usar formas candidatas
+relativamente compactas. É uma recomendação inicial para teste, não uma conclusão
+de que seja o quadradinho mais fácil.
+
+BASE DE ACORDES
+
+O esqueleto proposto tem sete colunas de fundamentais (Dó, Ré, Mi, Fá, Sol, Lá e
+Si) e quatro linhas (maior, menor, sustenida e com sétima): 28 células. As
+definições provisórias são acorde maior com fundamental elevada para a linha
+“sustenida” e acorde dominante para a linha “com sétima”. O aluno ainda deve
+confirmar essas definições.
+
+O ensino vai usar somente acordes desse esqueleto. Uma música que exija um tipo
+de acorde fora dele só entra depois de ser transposta para uma tonalidade
+compatível ou de o aluno aprovar a ampliação da matriz.
+
+OBJETIVOS DO ALUNO
+
+O aluno deverá conseguir:
+
+1. Identificar e montar os acordes selecionados sem consultar uma tabela toda vez.
+2. Encontrar cada acorde no braço do cavaquinho e produzir som limpo.
+3. Trocar entre acordes mantendo o pulso.
+4. Tocar ciclos de quatro acordes (“quadradinhos”) com levadas estudadas.
+5. Reconhecer cifras em uma música e relacioná-las aos acordes já treinados.
+6. Aprender repertório que use esse mesmo conjunto de acordes.
+
+RITMO E REPERTÓRIO
+
+O aluno já conhece uma batida básica e tem uma batida própria. O curso não deve
+recomeçar ensinando essa batida. Deve selecionar duas levadas simples, mas com
+possibilidades claras de evolução para variações mais avançadas, e usá-las com
+os acordes e quadradinhos do curso.
+
+NÍVEIS DE APRENDIZAGEM
+
+Organizar o material em básico, semiavançado, avançado e profissional. A
+dificuldade deve crescer por meio de trocas, tempo, levadas, repertório,
+transposição e interpretação. Enquanto a matriz não for ampliada pelo aluno, os
+níveis continuam trabalhando com o mesmo conjunto de acordes.
+
+COMO MEDIR O SUCESSO
+
+O sucesso não é decorar nomes ou concluir telas. É reconhecer a cifra, encontrar
+a posição, tocar todas as cordas com clareza, trocar no tempo e aplicar o acorde
+em um quadradinho ou música sem depender sempre de instruções passo a passo.

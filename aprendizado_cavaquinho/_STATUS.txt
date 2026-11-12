@@ -1,0 +1,33 @@
+STATUS DO CURRÍCULO
+
+STATUS GERAL: EM PREPARAÇÃO
+
+Há uma sequência planejada e uma matriz de 28 posições calculadas. A pesquisa
+final, a validação por fontes independentes e os testes no cavaquinho do aluno
+ainda estão pendentes. Nenhum módulo está pronto para ser tratado como lição
+final.
+
+PASTAS QUE DEVEM SER MANTIDAS
+
+- research/: manter; contém fontes e uma síntese ainda incompleta.
+- aprendizado_cavaquinho/: manter; é a fonte de planejamento e validação do
+  currículo.
+- modulos/: contém a estrutura dos passos de estudo; preencher cada módulo
+  somente quando suas dependências estiverem atendidas.
+
+DOCUMENTOS EXISTENTES
+
+- 01 a 05: material de escopo, sequência, acordes, referências e validações.
+- 06_PROMPT_ANALISE_ACORDES_CHATGPT.txt: histórico de pesquisa; não usar como
+  instrução atual sem conferir contra o escopo confirmado pelo aluno.
+- 07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt: referência operacional
+  provisória.
+- 07_MATRIZ_DE_ACORDES_AUDITADA.txt: cópia quase idêntica, com diferença apenas
+  no título. Preservada por enquanto para evitar exclusão sem confirmação.
+
+PRÓXIMO BLOQUEIO
+
+Fechar a Fase 00: confirmar a afinação real, as definições de “sustenida” e
+“com sétima”, validar as posições por fontes e testar conforto/som/trocas no
+instrumento. A forma de Am que o aluno prefere depende de imagens ainda não
+disponíveis.

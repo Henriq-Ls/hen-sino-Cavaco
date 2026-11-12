@@ -1,0 +1,31 @@
+MÓDULO 00 — BASE E VALIDAÇÃO
+
+TIPO
+
+Preparação da base do método; não é uma lição para o aluno.
+
+OBJETIVO
+
+Confirmar as convenções e as posições candidatas antes de escolher o primeiro
+conjunto de acordes.
+
+ESCOPO
+
+- Confirmar a afinação real do instrumento.
+- Confirmar o sentido de “sustenida” e “com sétima”.
+- Fixar a orientação dos diagramas e a contagem de cordas/casas/dedos.
+- Comparar as posições candidatas com fontes brasileiras identificáveis.
+- Testar som limpo, conforto, pestana, abafamento e trocas no instrumento.
+- Comparar as formas de Am quando o aluno enviar as imagens mencionadas.
+
+DOCUMENTOS DE APOIO
+
+03_ACORDES_E_DIAGRAMAS.txt, 04_PESQUISA_E_REFERENCIAS.txt,
+05_PONTOS_PARA_VALIDAR.txt e
+07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt.
+
+CRITÉRIO PARA CONCLUIR
+
+Registrar por acorde o que foi calculado, o que foi localizado em fonte e o que
+foi efetivamente testado pelo aluno. Só avançar quando as definições da matriz
+estiverem confirmadas e houver um conjunto inicial testado.

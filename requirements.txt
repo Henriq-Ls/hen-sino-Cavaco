@@ -1,0 +1,3 @@
+PySide6
+# Opcional: biblioteca de ícones; a interface possui alternativas Qt.
+qtawesome

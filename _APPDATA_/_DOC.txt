@@ -1,0 +1,23 @@
+DOCUMENTAÇÃO — PREFERÊNCIAS DO USUÁRIO
+
+RESPONSABILIDADE
+
+AppData guarda dados locais do aplicativo na pasta PASTA_APPDATA. No Windows,
+ela normalmente fica em %APPDATA%\hen_sino_cavaco; em Linux e macOS, fica em
+~/hen_sino_cavaco.
+
+ARQUIVO DE TEMA
+
+- Local: config/tema.json dentro de PASTA_APPDATA.
+- O arquivo contém a versão do formato, o nome do tema e o mapa de cores.
+- appdata.ler_tema() valida o arquivo e usa TEMA_PADRAO se ele estiver ausente
+  ou inválido.
+- appdata.salvar_tema(tema) valida e grava o JSON usando substituição atômica.
+- config.json e sessao.json continuam separados; a preferência visual não
+  sobrescreve as configurações existentes nem o estado da janela.
+
+USO
+
+_APP_/main_window.py carrega o tema ao iniciar. _APP_/settings_dialog.py envia
+uma nova escolha a appdata.salvar_tema(); a próxima abertura restaura a mesma
+paleta.

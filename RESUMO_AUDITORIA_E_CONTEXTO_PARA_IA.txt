@@ -1,0 +1,530 @@
+RESUMO DA AUDITORIA E CONTEXTO PARA OUTRA IA
+Projeto: hen-sino-Cavaco
+Data da auditoria: 12/11/2026
+
+FINALIDADE DESTE ARQUIVO
+
+Este documento reúne a leitura do código, da documentação, da matriz de acordes
+e as respostas discutidas com o dono do projeto. Serve como contexto para outra
+IA entender a conversa e o estado do projeto sem tratar sugestões como mudanças
+já aprovadas.
+
+IMPORTANTE
+
+- Este arquivo é um relatório de auditoria, não uma alteração funcional do app.
+- Nenhuma das sugestões pedagógicas ou técnicas abaixo foi aplicada.
+- O dono pediu para aguardar sua resposta antes de fazer outras alterações.
+- A única alteração feita para atender ao pedido atual foi criar este arquivo.
+- Separe fatos verificados em código/documentos de opiniões e hipóteses.
+
+========================================================================
+1. OBJETIVO E ESCOPO DO PRODUTO
+========================================================================
+
+O projeto é um aplicativo desktop em Python/PySide6 para organizar um método
+passo a passo de estudo de cavaquinho brasileiro, com foco inicial em samba e
+pagode. O produto deve organizar o que praticar e mostrar acordes com clareza;
+não deve se apresentar como professor virtual dando aulas.
+
+O problema pedagógico prioritário é o aluno não saber quais acordes estudar
+primeiro. A ordem planejada é:
+
+1. Confirmar afinação, convenções, categorias e formas de acordes.
+2. Testar som limpo, conforto e facilidade de troca no instrumento do aluno.
+3. Escolher poucos acordes e um primeiro ciclo de quatro funções.
+4. Escolher duas levadas evolutivas, sem reensinar a batida básica que o aluno
+   já conhece nem substituir sua batida própria sem motivo.
+5. Escolher repertório compatível e avançar por níveis.
+
+O ciclo de referência do quadradinho de samba é I–VI7–IIm–V7. Exemplos
+registrados:
+- Dó: C–A7–Dm–G7.
+- Ré: D–B7–Em–A7.
+- Fá: F–D7–Gm–C7.
+- Sol: G–E7–Am–D7.
+- Si bemol: A#–G7–Cm–F7.
+
+G–E7–Am–D7 é candidato a primeiro teste, não foi comprovado como o ciclo mais
+fácil. Os documentos dizem que a forma de Am precisa ser comparada com a forma
+preferida pelo aluno e que as imagens de Am anteriormente citadas não estão na
+pasta atual.
+
+========================================================================
+2. ESTRUTURA DO PROJETO E TAMANHO DO CÓDIGO
+========================================================================
+
+Principais pastas e arquivos:
+
+hen-sino-Cavaco/
+  main.py
+  .gitignore
+  Aentrada.txt
+  BASE_DO_PROJETO.txt
+  iNSTALL.txt
+  README.md
+  ULTIMOCONTEXTO.txt
+  ACORDES/
+    __init__.py
+    referencias.py
+  _APP_/
+    _DOC.txt
+    __init__.py
+    main_window.py
+    settings_dialog.py
+    pages/
+      __init__.py
+      chords_page.py
+      home_page.py
+      learning_page.py
+    widgets/
+      __init__.py
+      chord_diagram.py
+  _APPDATA_/
+    _DOC.txt
+    __init__.py
+    gerenciador.py
+  _CONFIGURA_/
+    _DOC.txt
+    __init__.py
+  _LOGS_/
+    __init__.py
+    log.py
+  _THREADS_/
+    __init__.py
+    thread_manager.py
+    thread_segura.py
+  _UTILIDADES_/
+    _DOC.txt
+    __init__.py
+    explorer.py
+    icones.py
+    loading_overlay.py
+    popups.py
+  nucleo/
+    _DOC_ERROS_BUGS.txt
+    _DOC_PROJETO.txt
+    _DOC_STATUS.txt
+    _ULTIMOS_FIX.txt
+  aprendizado_cavaquinho/
+    _DOC.txt
+    _STATUS.txt
+    00_INDICE_E_STATUS.txt
+    01_OBJETIVO_DO_PROJETO.txt
+    02_SEQUENCIA_DE_ENSINO.txt
+    03_ACORDES_E_DIAGRAMAS.txt
+    04_PESQUISA_E_REFERENCIAS.txt
+    05_PONTOS_PARA_VALIDAR.txt
+    06_PROMPT_ANALISE_ACORDES_CHATGPT.txt
+    07_MATRIZ_DE_ACORDES_AUDITADA.txt
+    07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt
+    modulos/
+      00_base_validacao/
+      01_acordes_iniciais/
+      02_quadradinho_e_trocas/
+      03_levadas/
+      04_semiavancado/
+      05_avancado/
+      06_profissional/
+      [cada pasta tem _DOC.txt e _STATUS.txt]
+  research/
+    notes.md
+    sources/
+      [12 arquivos de fontes, páginas e trechos salvos]
+
+Linhas aproximadas de Python por módulo, incluindo comentários, docstrings,
+linhas vazias e arquivos __init__.py:
+
+  _CONFIGURA_       1.178
+  _LOGS_              155
+  _APPDATA_           215
+  _THREADS_           249
+  _APP_             1.387
+  ACORDES             136
+  _UTILIDADES_     2.110
+  Total dos módulos 5.430
+  main.py              172 (fora dos módulos acima)
+
+_UTILIDADES_/explorer.py tem 1.616 linhas e é o maior arquivo individual.
+É um explorador de arquivos genérico, não utilizado pelas telas atuais.
+
+========================================================================
+3. ESTADO REAL DO APLICATIVO
+========================================================================
+
+O código contém:
+
+- Janela PySide6 v0.1.0 com navegação entre Início, Trilha e Acordes.
+- O aplicativo abre diretamente na página Acordes.
+- Início: apresentação estática e atalhos para a trilha e a matriz.
+- Trilha: seis etapas fixas, sem registrar progresso.
+- Acordes: matriz clicável de 7 × 4 e painel de detalhe por acorde.
+- Diagrama com afinação, casas, dedos e notas por corda.
+- Configurações: três temas prontos e tema personalizado com cinco cores.
+- Tema salvo localmente em AppData; geometria/estado da janela também são salvos.
+- Logger de sessão e tratamento de erros/crashes.
+
+Não existem atualmente exercícios interativos, avaliação de troca, áudio,
+metrônomo, análise de microfone, progresso do aluno ou lições concluídas.
+Portanto, a trilha é estática e o aplicativo não é ainda um método de estudo
+funcional.
+
+Evidência visual e execução:
+
+- A captura fornecida pelo dono mostra o aplicativo aberto, versão v0.1.0,
+  matriz 7 × 4 e o detalhe de F#. Ela confirma que o app rodou no ambiente que
+  gerou a imagem.
+- No ambiente usado para a auditoria, Python 3.13.11 não tinha PySide6 instalado.
+  Essa constatação é sobre aquele ambiente, não invalida a captura.
+- Foi feita análise estática dos 25 arquivos Python: nenhum erro de sintaxe.
+  Isso não equivale a executar o programa.
+- Não foi encontrada pasta de testes, workflow, pyproject.toml, uv.lock ou
+  requirements.txt no projeto avaliado.
+- O README indica `uv sync` e diz que PySide6 está em `../pyproject.toml`, mas
+  esse arquivo não foi encontrado.
+- qtawesome é opcional no código; PySide6 é necessário.
+
+========================================================================
+4. FORMATO ATUAL DOS DADOS DE ACORDES
+========================================================================
+
+ACORDES/referencias.py contém 28 candidatos escritos diretamente numa tupla
+chamada _CANDIDATAS. A função _criar_acorde transforma os dados em dicionários;
+ela não gera posições nem calcula as notas.
+
+MATRIZ_ACORDES usa uma chave (raiz, categoria). Cada dicionário inclui:
+raiz, categoria, categoria_nome, cifra, nome, afinação, casas, dedos,
+notas_resultantes, cordas, status, status_detalhe e observação.
+
+Casas, dedos e notas seguem a ordem 4ª → 1ª corda. Zero em casas significa
+corda solta; zero em dedos significa sem dedo. O registro cordas contém quatro
+itens, com número, nota, casa e dedo. Todas as posições atuais fazem soar as
+quatro cordas e não especificam cordas abafadas.
+
+O status atual é “Candidata calculada”. Não há campo estruturado de equivalentes
+enarmônicos nem fonte por acorde. As informações de casas/dedos aparecem tanto
+em tuplas quanto repetidas em cordas, o que pode permitir divergências futuras.
+
+ACORDE_BM_EXEMPLO é mantido por compatibilidade, mas a tela atual abre em C maior
+e exibe a matriz completa.
+
+========================================================================
+5. MATRIZ ATUAL: CASAS E NOTAS RECALCULADAS
+========================================================================
+
+Afinação: 4ª→1ª = Ré–Sol–Si–Ré. Abaixo, casas e notas também estão em ordem
+4ª→1ª. As oitavas são mostradas para deixar as repetições visíveis.
+
+MAIORES
+C   casas 2-0-1-2   notas Mi3–Sol3–Dó4–Mi4
+D   casas 0-2-3-4   notas Ré3–Lá3–Ré4–Fá#4
+E   casas 2-1-0-2   notas Mi3–Sol#3–Si3–Mi4
+F   casas 3-2-1-3   notas Fá3–Lá3–Dó4–Fá4
+G   casas 0-0-0-0   notas Ré3–Sol3–Si3–Ré4
+A   casas 2-2-2-2   notas Mi3–Lá3–Dó#4–Mi4
+B   casas 4-4-4-4   notas Fá#3–Si3–Ré#4–Fá#4
+
+MENORES
+Cm  casas 1-0-1-1   notas Ré#3–Sol3–Dó4–Ré#4
+Dm  casas 0-2-3-3   notas Ré3–Lá3–Ré4–Fá4
+Em  casas 2-0-0-2   notas Mi3–Sol3–Si3–Mi4
+Fm  casas 3-1-1-3   notas Fá3–Sol#3–Dó4–Fá4
+Gm  casas 0-3-3-5   notas Ré3–Lá#3–Ré4–Sol4
+Am  casas 2-2-1-2   notas Mi3–Lá3–Dó4–Mi4
+Bm  casas 0-4-3-4   notas Ré3–Si3–Ré4–Fá#4
+
+FUNDAMENTAL SUSTENIDA, ACORDE MAIOR
+C#  casas 3-1-2-3   notas Fá3–Sol#3–Dó#4–Fá4
+D#  casas 1-3-4-5   notas Ré#3–Lá#3–Ré#4–Sol4
+E#  casas 3-2-1-3   notas Fá3–Lá3–Dó4–Fá4
+F#  casas 4-3-2-4   notas Fá#3–Lá#3–Dó#4–Fá#4
+G#  casas 1-1-1-1   notas Ré#3–Sol#3–Dó4–Ré#4
+    Dó4 é enarmônico de Si#3 (a grafia teórica do acorde G#).
+A#  casas 0-3-3-3   notas Ré3–Lá#3–Ré4–Fá4
+B#  casas 2-0-1-2   notas Mi3–Sol3–Dó4–Mi4
+
+DOMINANTES COM SÉTIMA
+C7  casas 2-3-1-5   notas Mi3–Lá#3–Dó4–Sol4
+D7  casas 0-2-1-4   notas Ré3–Lá3–Dó4–Fá#4
+E7  casas 0-1-0-2   notas Ré3–Sol#3–Si3–Mi4
+F7  casas 3-2-1-1   notas Fá3–Lá3–Dó4–Ré#4
+G7  casas 0-0-0-3   notas Ré3–Sol3–Si3–Fá4
+A7  casas 2-2-2-5   notas Mi3–Lá3–Dó#4–Sol4
+B7  casas 1-2-0-4   notas Ré#3–Lá3–Si3–Fá#4
+
+RESULTADO DA CONFERÊNCIA MUSICAL
+
+As 28 posições foram recalculadas a partir de Ré–Sol–Si–Ré. Todas as notas
+resultantes correspondem à qualidade e à fundamental indicadas; não foi
+encontrada divergência de cálculo. Isso não confirma conforto, som limpo,
+popularidade, facilidade ou validação em fonte independente.
+
+As 21 tríades duplicam uma nota entre a 4ª e a 1ª cordas, uma oitava acima.
+Isso é normal ao distribuir uma tríade por quatro cordas:
+- Maiores: C duplica Mi; D Ré; E Mi; F Fá; G Ré; A Mi; B Fá#.
+- Menores: Cm duplica Ré#; Dm Ré; Em Mi; Fm Fá; Gm Ré; Am Mi; Bm Ré.
+- Sustenidas maiores: C# duplica Fá; D# Ré#; E# Fá; F# Fá#; G# Ré#;
+  A# Ré; B# Mi.
+- Dominantes com 7ª: não repetem uma classe de nota; os quatro tons aparecem.
+
+========================================================================
+6. BUSCA DE FORMAS PARA G, Am, D7 E F#
+========================================================================
+
+Para tornar “todas as formas” finito e verificável, a busca enumerou vetores de
+casas entre 0 e 7 que:
+- fazem soar as quatro cordas;
+- incluem todos os tons do acorde;
+- não incluem notas alheias ao acorde;
+- permitem até quatro dedos;
+- só contam pestana quando um mesmo dedo cobre cordas adjacentes na mesma casa.
+
+Foram encontrados 11 vetores para G, 8 para Am, 8 para D7 e 1 para F#. Vinte têm
+abertura de até quatro casas; oito têm abertura de cinco ou seis casas. As casas
+e notas são matematicamente válidas, mas a tabela não prova que sejam
+confortáveis ou tocáveis por um aluno específico. A abertura é a diferença entre
+a casa mais alta e mais baixa pressionada; ela não mede toda a ergonomia.
+
+Os dedos abaixo são uma atribuição possível para cada vetor, não uma recomendação
+testada. Ordem de casas e dedos: 4ª→1ª. “Todas” significa que as quatro cordas
+soam. O baixo é a nota da 4ª corda.
+
+G
+Casas       Dedos        Pestana                 Abertura  Cordas / baixo
+0-0-0-0     —-—-—-—      não                         0    todas / Ré
+0-0-0-5     —-—-—-1      não                         0    todas / Ré
+0-4-0-5     —-1-—-2      não                         1    todas / Ré
+0-4-3-5     —-2-1-3      não                         2    todas / Ré
+0-7-0-5     —-2-—-1      não                         2    todas / Ré
+5-0-0-0     1-—-—-—      não                         0    todas / Sol
+5-4-0-0     2-1-—-—      não                         1    todas / Sol
+5-4-3-0     3-2-1-—      não                         2    todas / Sol
+5-4-3-5     3-2-1-4      não                         2    todas / Sol
+5-7-0-0     1-2-—-—      não                         2    todas / Sol
+5-7-0-5     1-3-—-2      não                         2    todas / Sol
+
+Am
+Casas       Dedos        Pestana                 Abertura  Cordas / baixo
+2-2-1-2     2-2-1-3      parcial, casa 2, 4ª–3ª       1    todas / Mi
+2-2-1-7     2-2-1-3      parcial, casa 2, 4ª–3ª       6    todas / Mi
+2-5-1-7     2-3-1-4      não                         6    todas / Mi
+2-5-5-7     1-2-2-3      parcial, casa 5, 3ª–2ª       5    todas / Mi
+7-2-1-2     4-2-1-3      não                         6    todas / Lá
+7-5-1-2     4-3-1-2      não                         6    todas / Lá
+7-5-5-2     3-2-2-1      parcial, casa 5, 3ª–2ª       5    todas / Lá
+7-5-5-7     2-1-1-3      parcial, casa 5, 3ª–2ª       2    todas / Lá
+
+D7
+Casas       Dedos        Pestana                 Abertura  Cordas / baixo
+0-2-1-4     —-2-1-3      não                         3    todas / Ré
+0-5-7-7     —-1-2-2      parcial, casa 7, 2ª–1ª       2    todas / Ré
+4-2-1-0     3-2-1-—      não                         3    todas / Fá#
+4-5-3-7     2-3-1-4      não                         4    todas / Fá#
+4-7-1-7     2-3-1-4      não                         6    todas / Fá#
+7-5-3-4     4-3-1-2      não                         4    todas / Lá
+7-5-7-0     2-1-3-—      não                         2    todas / Lá
+7-7-1-4     3-3-1-2      parcial, casa 7, 4ª–3ª       6    todas / Lá
+
+F#
+Casas       Dedos        Pestana                 Abertura  Cordas / baixo
+4-3-2-4     3-2-1-4      não                         2    todas / Fá#
+
+Leitura das alternativas:
+- G atual 0-0-0-0 é forte candidata pelos critérios de casas e dedos: quatro
+  cordas abertas, sem dedos. Seu baixo é Ré, a quinta do acorde. Algumas
+  alternativas têm baixo Sol, mas requerem dedos.
+- Am atual 2-2-1-2 é uma forma compacta. No código, os dedos estão registrados
+  como 2-3-1-4 (quatro dedos). Uma hipótese de re-digitação é 2-2-1-3, usando
+  pestana parcial do dedo 2 nas cordas 4 e 3. Isso precisa ser testado.
+- D7 atual 0-2-1-4 é uma candidata em posição baixa e com três dedos. A forma
+  4-2-1-0 também tem três dedos, mas muda o baixo para Fá#; nenhuma é
+  comprovadamente mais fácil.
+- F# atual 4-3-2-4 é o único vetor completo encontrado na faixa 0–7 sob os
+  critérios acima. Mantê-lo como candidato é mais seguro do que inventar uma
+  substituição sem cálculo.
+
+Não há base para substituir formas por recomendação definitiva sem teste de som,
+conforto e transição. A principal hipótese de melhoria identificada na amostra é
+rever a distribuição de dedos de Am; isso não prova que outra forma seja mais
+fácil para o dono.
+
+========================================================================
+7. AVALIAÇÃO DO DIAGRAMA E DA HIPÓTESE DAS CINCO CASAS
+========================================================================
+
+O código contém DIAGRAMA_NUMERO_CASAS = 5 e o ChordDiagram desenha as linhas
+conforme esse número. Não há limite de casas no construtor dos dados de acordes
+nem script de geração que use esse valor.
+
+Assim:
+- Fato: a tela atual mostra cinco casas e a forma mais alta dos dados usa a casa
+  5.
+- Fato: quatro candidatos usam casa 5: D#, Gm, C7 e A7.
+- Fato: não há gerador que possa ter sido limitado a cinco pelo desenho.
+- Hipótese não comprovada: a pessoa que escolheu manualmente os vetores pode ter
+  usado diagramas de cinco casas como referência.
+
+Para exibir sete casas será preciso ampliar/redimensionar o diagrama. Os valores
+atuais incluem DIAGRAMA_ALTURA = 390, DIAGRAMA_TOPO = 76 e
+DIAGRAMA_PASSO_CASA = 46. Com sete casas, a grade chegaria a 398 pixels antes
+das legendas inferiores, ultrapassando a altura atual. O código também não
+desenha marcadores de posição nas casas 5 e 7; só desenha cordas, trastes e
+marcas de dedos. O pedido de cordas em tom mais escuro e marcadores 5/7 exige
+alteração de desenho, não apenas trocar uma constante.
+
+========================================================================
+8. AVALIAÇÃO DAS NOVAS LINHAS DA MATRIZ
+========================================================================
+
+O dono decidiu acrescentar “sustenida menor”:
+C#m, D#m, E#m, F#m, G#m, A#m, B#m.
+
+O gerente sugeriu também “sustenida com sétima”, interpretada aqui como acorde
+dominante com fundamental elevada, por exemplo C#7, D#7, F#7. Essa definição
+deve ser escrita explicitamente e não confundida com acorde de sétima maior.
+
+As linhas podem completar os ciclos:
+- Mi: E–C#7–F#m–B7.
+- Lá: A–F#7–Bm–E7.
+
+Equivalências redundantes em som:
+- E#m = Fm; B#m = Cm.
+- E#7 = F7; B#7 = C7.
+- A# equivale a Bb, e A#m equivale a Bbm.
+
+Se as duas linhas forem adicionadas às quatro existentes, a matriz passa de
+7 × 4 (28 células) para 7 × 6 (42 células). Isso não é necessariamente um
+problema, mas requer mostrar equivalências para não ensinar células enarmônicas
+como sons diferentes.
+
+========================================================================
+9. PESQUISA E FONTES
+========================================================================
+
+research/notes.md é uma síntese sobre memória/prática, sequência pedagógica,
+diagramas e feedback auditivo. Ela própria ressalta que as fontes não validam
+individualmente as 28 posições nem determinam quais formas são fáceis para este
+aluno.
+
+Os 12 arquivos em research/sources incluem:
+- Estudos de espaçamento na aprendizagem de piano e memória melódica.
+- Estudo de feedback auditivo com estudantes de piano e violão.
+- Trabalho da UNIRIO sobre métodos e propostas para ensino de cavaquinho.
+- Programa de disciplina de cavaquinho do IFCE.
+- Pesquisa qualitativa da UFMG sobre práticas informais de quatro músicos
+  populares.
+- Documentação MDN da Web Audio API e especificação W3C de acessibilidade SVG.
+- Guia de cavaquinho do Minho, em Portugal.
+- Trechos de busca não equivalentes a artigos completos.
+
+Limites registrados:
+- Estudos de piano, violão ou canto não provam a melhor sequência de estudo de
+  acordes no cavaquinho.
+- A análise da UNIRIO apoia contextualizar acordes em progressões e levadas, mas
+  não classifica digitações por facilidade para este aluno.
+- O IFCE mostra integração de técnica, percepção e repertório, mas não define
+  sequência universal.
+- MDN Web Audio é tecnologia de navegador e não uma receita para PySide.
+- W3C SVG AAM não define a acessibilidade de um widget QPainter do Qt.
+- O guia português trata principalmente do instrumento minhoto e não deve ser
+  usado para validar sozinho a afinação brasileira.
+- Há cópias das fontes UNIRIO e de feedback auditivo, além de snippets de busca.
+- Algumas fontes citadas em aprendizado_cavaquinho/04 não estão entre os 12
+  arquivos salvos.
+- Não foram abertas URLs externas nesta auditoria; as observações descrevem os
+  arquivos locais.
+
+Inconsistência específica: aprendizado_cavaquinho/04 cita uma disciplina II do
+IFCE; notes.md e o arquivo bruto salvo indicam Prática de Instrumento Específico
+I. O documento 04 também contém um link “OLHAR AQUI TBM” para cavaquinhos.pt sem
+síntese da fonte.
+
+========================================================================
+10. TEMAS, THREADS E UTILITÁRIOS
+========================================================================
+
+Temas:
+- Estão ativos no código e têm interface de configuração.
+- Há três temas prontos e personalização de cinco cores principais.
+- MainWindow carrega/aplica o tema; SettingsDialog edita; AppData salva em
+  config/tema.json; ChordsPage e ChordDiagram recebem as cores.
+- A preferência é local ao usuário.
+
+Threads:
+- MainWindow importa thread_manager e chama encerrar_todas() ao encerrar o app.
+- Não foi encontrada criação de ThreadSegura nas telas atuais.
+- Explorer usa QRunnable/QThreadPool para prévias, mas não está integrado às
+  telas atuais e não usa ThreadManager.
+- ThreadSegura documenta proteção de exceções em run() e contra
+  finished→deleteLater, mas o código não envolve automaticamente run() em
+  try/except nem intercepta conexões diretas ao sinal.
+- ThreadManager pode recorrer a terminate() após timeout; isso é um risco futuro
+  se houver tarefas com recursos/locks, não uma falha observada em fluxo atual.
+
+Opinião registrada: congelar novas expansões de temas e ThreadManager até a
+validação musical é razoável, mas não remover o que existe. O tema é uma função
+independente que já está exposta ao usuário; o gerenciador ainda é chamado no
+encerramento.
+
+Nome da pasta _UTILIDADES_:
+- A grafia da pasta e suas referências foram corrigidas para _UTILIDADES_.
+- Os imports usados pela interface e pelo Explorer apontam para o nome corrigido.
+- Não há evidência de consumidores externos, mas também não é possível descartá-los.
+
+========================================================================
+11. INCONSISTÊNCIAS ENTRE CÓDIGO, DOCUMENTAÇÃO E ESTADO
+========================================================================
+
+- nucleo/_DOC_PROJETO.txt ainda diz que só existe o exemplo Bm; o código,
+  README.md e nucleo/_DOC_STATUS.txt descrevem a matriz completa de 28 candidatos.
+- ULTIMOCONTEXTO.txt é contraditório: o início descreve a matriz 7 × 4 correta,
+  mas a tarefa antiga no fim diz que a tela mostra só Bm e cita caminhos
+  APP/... diferentes dos atuais _APP_/...
+- Aentrada.txt e aprendizado_cavaquinho/01 chamam o produto de professor
+  virtual; os documentos mais atuais dizem que não é um professor virtual.
+- README recomenda uv sync e menciona pyproject.toml ausente no ambiente
+  analisado. Não foi encontrado arquivo de dependências.
+- aprendizado_cavaquinho/04 indica IFCE II; notes.md e fonte bruta indicam I.
+- A documentação de ThreadSegura descreve proteções que não estão integralmente
+  implementadas.
+- Os dois arquivos de matriz 07 são iguais a partir da segunda linha; diferem
+  somente no título.
+- nucleo/_DOC_ERROS_BUGS.txt está vazio como modelo. Não há bugs registrados.
+
+========================================================================
+12. OPINIÕES E RECOMENDAÇÕES AINDA NÃO IMPLEMENTADAS
+========================================================================
+
+1. Congelamento técnico
+Congelar novas funções nos temas e no ThreadManager até fechar a base musical,
+sem apagar módulos existentes.
+
+2. Modelo de dados sugerido
+Manter cifra/nome e equivalentes enarmônicos; afinação; uma lista canônica por
+corda com número, casa, dedo, nota e estado aberta/abafada; validação separada
+para cálculo, fontes e teste do aluno; fontes múltiplas por acorde. Esses estados
+são etapas cumulativas, não alternativas excludentes. Evitar armazenar casas e
+dedos duplicados sem uma fonte canônica.
+
+3. Ensinar por tonalidade
+Começar por ciclos como G, C, D, F e Bb pode reduzir a quantidade de acordes
+mostrada de uma vez e é compatível com a matriz atual. A matriz deve continuar
+como referência, mas a ordem não deve ser descrita como escala comprovada de
+facilidade. Testar digitações e transições. Usar Bb/A# de forma clara para o
+aluno.
+
+4. Geração automática
+É seguro gerar posições candidatas por script e validar notas, desde que limites
+do braço, desenho, dedos e pestanas sejam parâmetros distintos. O resultado deve
+ser rotulado como calculado, nunca como fácil, popular ou validado em instrumento
+sem teste. É recomendável adicionar testes automáticos de notas e consistência
+dos dados.
+
+5. Critérios físicos
+Além de casas, dedos, pestana, abertura, cordas e baixo, testar som limpo,
+conforto, posição do punho, ruído, transições reais entre acordes do ciclo e
+avaliação do aluno. A diferença numérica entre trastes não equivale a distância
+física igual em todas as posições.
+
+========================================================================
+FIM DO RESUMO
+========================================================================

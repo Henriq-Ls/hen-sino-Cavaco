@@ -1,0 +1,143 @@
+MATRIZ DE ACORDES — REVISÃO TÉCNICA
+
+OBJETIVO
+
+Corrigir erros musicais do relatório de pesquisa recebido e deixar uma posição
+candidata para cada uma das 28 células. Esta é uma revisão de correção musical
+por cálculo; ela NÃO comprova que cada posição seja a mais fácil, a mais popular
+ou a mais usada em samba e pagode.
+
+CONVENÇÕES DESTA REVISÃO
+
+- Afinação considerada: 4ª→1ª corda = Ré–Sol–Si–Ré (D–G–B–D).
+- Ordem das casas e dos dedos abaixo: 4ª, 3ª, 2ª e 1ª corda.
+- Casa 0 = corda solta; “—” = nenhum dedo.
+- Dedos da mão esquerda: 1 indicador, 2 médio, 3 anelar, 4 mínimo.
+- Cada posição faz soar as quatro cordas.
+- Maior = tríade 1–3–5; menor = 1–b3–5; dominante com 7ª = 1–3–5–b7.
+- Interpretação provisória de “sustenida”: acorde maior cuja fundamental sobe
+  um semitom (C# maior, D# maior etc.), não acorde aumentado.
+- Interpretação provisória de “com sétima”: acorde dominante (C7, D7 etc.), não
+  acorde com sétima maior (Cmaj7).
+- E# maior soa como F maior; B# maior soa como C maior. Essas duas células são
+  equivalências enarmônicas, não acordes com alturas diferentes.
+
+COMO LER
+
+Exemplo: casas 2–0–1–2 significa 4ª corda na casa 2, 3ª solta, 2ª na casa 1 e
+1ª na casa 2. “Dedos 2–—–1–3” indica qual dedo usar em cada corda.
+
+1. ACORDES MAIORES NATURAIS
+
+C (Dó maior): casas 2–0–1–2; dedos 2–—–1–3; notas Mi–Sol–Dó–Mi.
+D (Ré maior): casas 0–2–3–4; dedos —–1–2–3; notas Ré–Lá–Ré–Fá#.
+E (Mi maior): casas 2–1–0–2; dedos 2–1–—–3; notas Mi–Sol#–Si–Mi.
+F (Fá maior): casas 3–2–1–3; dedos 3–2–1–4; notas Fá–Lá–Dó–Fá.
+G (Sol maior): casas 0–0–0–0; dedos —–—–—–—; notas Ré–Sol–Si–Ré.
+A (Lá maior): casas 2–2–2–2; dedo 1 em pestana nas quatro cordas; notas
+  Mi–Lá–Dó#–Mi.
+B (Si maior): casas 4–4–4–4; dedo 1 em pestana nas quatro cordas; notas
+  Fá#–Si–Ré#–Fá#.
+
+2. ACORDES MENORES NATURAIS
+
+Cm (Dó menor): casas 1–0–1–1; dedos 1–—–2–3; notas Ré#–Sol–Dó–Ré#.
+Dm (Ré menor): casas 0–2–3–3; dedos —–1–2–3; notas Ré–Lá–Ré–Fá.
+Em (Mi menor): casas 2–0–0–2; dedos 1–—–—–2; notas Mi–Sol–Si–Mi.
+Fm (Fá menor): casas 3–1–1–3; dedos 3–1–2–4; notas Fá–Sol#–Dó–Fá.
+Gm (Sol menor): casas 0–3–3–5; dedos —–1–1–3; notas Ré–Lá#–Ré–Sol.
+  O dedo 1 pode fazer meia pestana nas cordas 3 e 2.
+Am (Lá menor): casas 2–2–1–2; dedos 2–3–1–4; notas Mi–Lá–Dó–Mi.
+Bm (Si menor): casas 0–4–3–4; dedos —–2–1–3; notas Ré–Si–Ré–Fá#.
+
+3. FUNDAMENTAL SUSTENIDA — ACORDE MAIOR
+
+C# (Dó sustenido maior): casas 3–1–2–3; dedos 3–1–2–4; notas Fá–Sol#–Dó#–Fá.
+D# (Ré sustenido maior): casas 1–3–4–5; dedos 1–2–3–4; notas Ré#–Lá#–Ré#–Sol.
+  Sol tem o mesmo som que Fá duplo sustenido; a forma soa como Mi bemol maior.
+E# (Mi sustenido maior): mesma forma de F maior, casas 3–2–1–3; dedos 3–2–1–4;
+  notas Fá–Lá–Dó–Fá. E# maior e F maior soam iguais.
+F# (Fá sustenido maior): casas 4–3–2–4; dedos 3–2–1–4; notas Fá#–Lá#–Dó#–Fá#.
+G# (Sol sustenido maior): casas 1–1–1–1; dedo 1 em pestana nas quatro cordas;
+  notas Ré#–Sol#–Si#–Ré# (a 2ª corda soa Dó, enarmônica de Si#).
+A# (Lá sustenido maior): casas 0–3–3–3; dedos —–1–1–1; notas Ré–Lá#–Ré–Fá.
+  A# maior soa como Si bemol maior.
+B# (Si sustenido maior): mesma forma de C maior, casas 2–0–1–2; dedos 2–—–1–3;
+  notas Mi–Sol–Dó–Mi. B# maior e C maior soam iguais.
+
+4. ACORDES DOMINANTES COM SÉTIMA
+
+C7: casas 2–3–1–5; dedos 2–3–1–4; notas Mi–Lá#–Dó–Sol
+  (Lá# tem o mesmo som que Si bemol).
+D7: casas 0–2–1–4; dedos —–2–1–3; notas Ré–Lá–Dó–Fá#.
+E7: casas 0–1–0–2; dedos —–1–—–2; notas Ré–Sol#–Si–Mi.
+F7: casas 3–2–1–1; dedos 3–2–1–1; notas Fá–Lá–Dó–Ré#.
+  O dedo 1 pode fazer meia pestana nas cordas 2 e 1.
+G7: casas 0–0–0–3; dedos —–—–—–1; notas Ré–Sol–Si–Fá.
+A7: casas 2–2–2–5; dedos 1–1–1–4; notas Mi–Lá–Dó#–Sol.
+  O dedo 1 faz meia pestana nas cordas 4, 3 e 2.
+B7: casas 1–2–0–4; dedos 1–2–—–3; notas Ré#–Lá–Si–Fá#.
+
+RESULTADO DA CONFERÊNCIA MUSICAL
+
+As 28 posições acima foram recalculadas a partir da afinação Ré–Sol–Si–Ré. Em
+cada uma, as notas produzidas correspondem à qualidade e à fundamental indicadas.
+As tríades usam duplicações de notas quando necessário para preencher as quatro
+cordas. Esta checagem confirma as notas; não confirma conforto físico, clareza do
+som no instrumento real, popularidade da forma nem facilidade para trocar.
+
+PROBLEMAS ENCONTRADOS NO RELATÓRIO ANTERIOR
+
+- A posição 2–0–1–3, apresentada para C maior, produz Mi–Sol–Dó–Fá e não forma
+  C maior. A posição 2–0–1–2, escrita em outra parte do mesmo relatório, produz
+  Mi–Sol–Dó–Mi e está correta.
+- A posição 0–2–1–3, apresentada para D maior, produz Ré–Lá–Dó–Fá, não Ré maior.
+- A posição 1–0–2–0, apresentada para E maior, produz Ré#–Sol–Dó#–Ré, não Mi
+  maior. Uma posição calculada válida para E maior está listada acima.
+- A posição 2–1–1–0, apresentada para Cm, produz Mi–Sol#–Dó–Ré, não Dó menor.
+- A forma de Am com casas 0–2–2–0 produz Ré–Lá–Dó#–Ré, não Lá menor.
+- A forma 2–0–1–1 indicada para C7 produz Mi–Sol–Dó–Ré#, não Dó com sétima
+  dominante.
+- O relatório afirma que as posições foram validadas, mas também lista posições
+  não verificadas e deixa diagramas incompletos. As citações numéricas, como
+  “[41]” e “[8]”, não vêm acompanhadas de uma bibliografia que permita localizar
+  todas as fontes e conferir as formas.
+
+FONTES CONSULTADAS E LIMITE DO QUE ELAS COMPROVAM
+
+1. Victor Cazzoli, “Cavaquinho do Zero — Manual do Iniciante”.
+   https://cavaquinhoparainiciantes.com.br/wp-content/uploads/2023/12/manual_do_iniciante_victor_cazzoli.pdf
+   Apoia a afinação e a numeração das cordas, a numeração dos dedos, a leitura de
+   diagramas e a existência de repertório didático de acordes maiores, menores e
+   com 7ª. Não comprova, por si só, que cada forma desta revisão seja a mais fácil.
+
+2. Luiz Cesar Croset Junior, “O ensino do cavaquinho: análise de métodos,
+   questões didáticas e propostas metodológicas”, UNIRIO, 2020.
+   https://www.unirio.br/cla/ivl/cursos/luizcroset.pdf
+   Analisa métodos brasileiros e discute acordes, progressões e organização do
+   ensino. A pesquisa sustenta a necessidade de contextualizar e organizar o
+   conteúdo; não fornece um ranking universal de digitações fáceis.
+
+3. “Aprenda os Acordes no Cavaquinho — Aula 1”, Primeiros Acordes, 2020.
+   https://primeirosacordes.com.br/cavaquinho-iniciante/aprenda-os-acordes-no-cavaquinho-aula-1
+   Apresenta modelos de acordes maiores e o deslocamento de formas pelo braço.
+   Serve como referência didática para acordes maiores; não valida as 28 posições
+   desta matriz.
+
+4. Pedro Cantalice, “Compêndio de Técnicas e Sonoridades para Cavaquinho
+   Brasileiro — Guia para compositores/arranjadores”, PROMUS/UFRJ/FUNARTE.
+   https://promus.musica.ufrj.br/wp-content/uploads/2024/11/20241216-Pedro-Cantalice.pdf
+   Apoia a análise de voicings e das possibilidades do instrumento. É voltado a
+   compositores/arranjadores, não é um ranking de acordes fáceis para iniciantes.
+
+STATUS E PRÓXIMA VALIDAÇÃO
+
+- Correção das notas por cálculo: 28 de 28 posições passam.
+- Confirmação em fontes independentes de cada desenho exato: pendente.
+- Escolha da posição mais confortável e fácil de trocar: pendente de teste no
+  cavaquinho do aluno; não deve ser apresentada como comprovada pela internet.
+- Interpretações de “sustenida” e “com sétima”: ainda precisam da confirmação do
+  aluno antes de se tornarem decisões finais.
+- Duas imagens de Am mencionadas nos documentos anteriores: comparar novamente
+  quando estiverem disponíveis. A forma acima é uma candidata correta, não uma
+  decisão de que seja a mais fácil para o aluno.

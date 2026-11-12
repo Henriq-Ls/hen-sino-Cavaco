@@ -1,0 +1,84 @@
+ACORDES, AFINAÇÃO E DIAGRAMAS
+
+AFINAÇÃO DE REFERÊNCIA
+
+A afinação de referência é Ré–Sol–Si–Ré, da 4ª corda para a 1ª:
+
+4ª corda: Ré grave
+3ª corda: Sol
+2ª corda: Si
+1ª corda: Ré agudo
+
+Existem outras afinações. Confirmar a afinação real do instrumento antes de
+ensinar ou validar uma posição.
+
+LEITURA DOS DIAGRAMAS
+
+Todo diagrama ou descrição deve informar:
+
+- a ordem das cordas e qual lado mostra a 1ª corda;
+- a casa inicial e como contar casas;
+- o dedo usado em cada corda;
+- quais cordas são soltas, pressionadas ou abafadas.
+
+Nesta pasta, as posições escritas como quatro números seguem a ordem 4ª–3ª–2ª–1ª
+corda. Casa 0 indica corda solta. Os dedos são 1 indicador, 2 médio, 3 anelar e
+4 mínimo.
+
+MATRIZ DE TRABALHO
+
+O esqueleto possui sete fundamentais (C, D, E, F, G, A, B) e quatro linhas:
+maior, menor, fundamental sustenida e dominante com sétima. As duas últimas
+interpretações ainda são provisórias e aguardam confirmação do aluno.
+
+O arquivo 07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt traz uma posição candidata em cada
+célula e as notas calculadas corda por corda. As 28 candidatas correspondem
+musicalmente aos acordes nomeados. Isso não prova que sejam as mais fáceis nem
+que cada desenho seja o mais usado nos métodos brasileiros.
+
+Antes de escolher o conjunto inicial:
+
+1. Conferir cada forma visualmente com fontes de cavaquinho.
+2. Tocar as quatro cordas separadas e juntas.
+3. Comparar conforto, pestana, abertura, som limpo e troca para o acorde seguinte.
+4. Escolher uma posição principal por acorde para o primeiro material.
+
+EXEMPLOS DE POSIÇÕES E CÁLCULO
+
+Bm já analisado:
+
+4ª Ré: solta;
+3ª Sol: casa 4, dedo 2 = Si;
+2ª Si: casa 3, dedo 1 = Ré;
+1ª Ré: casa 4, dedo 3 = Fá#.
+
+Notas: Ré–Si–Ré–Fá#, que formam Si menor.
+
+Am candidato já descrito:
+
+4ª Ré: casa 2, dedo 2 = Mi;
+3ª Sol: casa 2, dedo 3 = Lá;
+2ª Si: casa 1, dedo 1 = Dó;
+1ª Ré: casa 2, dedo 4 = Mi.
+
+Notas: Mi–Lá–Dó–Mi, que formam Lá menor. O aluno relatou que outra imagem de
+Am parecia mais fácil. A imagem dessa primeira forma não está disponível nos
+arquivos atuais; não escolher entre as duas sem recebê-la e conferir as notas.
+
+CORREÇÃO DO RELATÓRIO RECEBIDO
+
+O relatório anterior não deve ser usado como tabela final: várias casas foram
+convertidas em notas erradas e algumas posições não formam o acorde rotulado.
+O arquivo 07 registra exemplos dos erros e uma matriz recalculada. A revisão
+atual confirma notas por cálculo, mas ainda deixa pendentes a conferência de cada
+desenho em uma fonte e o teste de facilidade no instrumento do aluno.
+
+VOICINGS E ALTERNATIVAS
+
+Um acorde pode ter mais de uma posição válida. A ordem e a duplicação das notas
+podem mudar sem mudar a qualidade do acorde; também podem mudar o registro e o
+conforto da mão. A posição escolhida para o curso deve favorecer som limpo e
+trocas úteis no repertório, considerando a experiência relatada pelo aluno.
+
+Não escolher automaticamente a forma com menos dedos, a posição mais baixa ou
+a forma publicada por uma única fonte.

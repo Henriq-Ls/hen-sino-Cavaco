@@ -1,0 +1,79 @@
+STATUS DO PROJETO — HEN-SINO-CAVACO
+
+ESTADO GERAL
+
+Protótipo desktop iniciado; método de estudo e conteúdo ainda em preparação.
+Não considerar o produto ou a trilha de aprendizagem prontos para uso.
+
+O QUE JÁ EXISTE NO APLICATIVO
+
+- Janela principal PySide6, versão v0.1.0.
+- Navegação entre Início, Trilha e Acordes.
+- A aplicação abre na página Acordes para mostrar a matriz logo ao iniciar.
+- Início com apresentação estática do projeto.
+- Trilha estática com seis etapas planejadas.
+- Matriz visual 7 × 4 com 28 posições candidatas calculadas.
+- Diagrama selecionável com cifra, afinação, casas, dedos e notas por corda.
+- Persistência da geometria/estado da janela.
+- Botão Configurações com três paletas prontas e seleção personalizada de cinco
+  cores; a escolha é salva em config/tema.json na pasta AppData do usuário.
+- A paleta escolhida é aplicada sem reiniciar e restaurada ao abrir o aplicativo.
+
+O QUE AINDA NÃO EXISTE OU NÃO FOI VERIFICADO
+
+- Não há lições interativas, exercícios, troca de acordes avaliada ou progresso
+  do aluno gravado.
+- Não há áudio de cavaquinho, metrônomo ou análise pelo microfone.
+- A matriz e os diagramas já aparecem na interface, mas as posições são
+  candidatas: falta confirmar cada forma em fonte independente e testá-la no
+  instrumento do aluno.
+- A preferência visual não sincroniza entre computadores; ela fica no AppData
+  local de cada usuário.
+- A interface e o título de BASE_DO_PROJETO.txt descrevem o produto como método
+  de estudo passo a passo, não como professor virtual.
+- Não há workflow configurado neste ambiente. O ponto de entrada e a construção
+  da janela passaram em teste de inicialização/fechamento com Qt em modo offscreen;
+  a aparência visual ainda não foi conferida.
+
+PASTAS: DECISÃO
+
+- research/: MANTER. notes.md agora contém a síntese pedagógica; a pasta mantém
+  12 arquivos de fontes, inclusive cópias de consulta. Não apagar nem substituir
+  as fontes brutas por resumos.
+- aprendizado_cavaquinho/: MANTER. Contém plano, critérios, referências e matriz
+  candidata. Foi organizada em módulos curriculares documentados.
+- aprendizado_cavaquinho/ contém dois arquivos 07 quase idênticos: diferem apenas
+  no título. CANDIDATOS_CALCULADOS é a referência operacional; AUDITADA permanece
+  por enquanto como cópia histórica. Não editar as duas em paralelo.
+
+STATUS DO CONTEÚDO PEDAGÓGICO
+
+- As 28 posições candidatas foram recalculadas com a afinação de referência,
+  mas ainda não foram confirmadas uma a uma em fontes independentes nem testadas
+  no instrumento do aluno.
+- A página Acordes liga as 28 células candidatas ao diagrama e às instruções por
+  corda. A afinação usada é a referência Ré–Sol–Si–Ré, não uma confirmação da
+  afinação real do instrumento do aluno.
+- A escolha das interpretações de “sustenida” e “com sétima” depende do aluno.
+- A posição preferida de Am depende de imagens que ainda não estão disponíveis.
+- G–E7–Am–D7 é candidato para teste, não uma escolha final por facilidade.
+- O aluno já conhece uma batida básica; duas levadas diferentes e evolutivas
+  ainda precisam ser escolhidas.
+- research/notes.md agora contém uma síntese das fontes pedagógicas e seus
+  limites. Ela não resolve a validação das posições nem as decisões do aluno.
+
+ORDEM DE CONTINUIDADE
+
+1. Confirmar afinação e definições das linhas; receber as imagens de Am citadas.
+2. Validar posições candidatas em fontes brasileiras e testar som, conforto e
+   trocas no instrumento.
+3. Escolher os primeiros acordes, o primeiro quadradinho, duas levadas e músicas.
+4. Completar os módulos curriculares e seus critérios de avanço.
+5. Depois implementar exercícios e progresso funcional; verificar os temas e a
+   navegação em ambiente gráfico.
+
+REGISTRO
+
+Não há bugs documentados no momento; nucleo/_DOC_ERROS_BUGS.txt continua como
+modelo para registrar problemas reais. Não criar entradas de bug só porque uma
+função ainda não foi implementada.

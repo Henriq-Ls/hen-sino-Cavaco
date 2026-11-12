@@ -1,0 +1,18 @@
+STATUS: PARCIAL / BLOQUEIA OS PRÓXIMOS MÓDULOS
+
+JÁ FEITO
+
+- 28 posições foram recalculadas para a afinação de referência.
+- A sequência e os critérios de validação estão descritos nos documentos 02–05.
+- Há fontes guardadas em research/sources/.
+
+PENDENTE
+
+- Confirmar afinação e definições das linhas com o aluno.
+- Conferir cada forma candidata em fonte independente.
+- Testar conforto, clareza do som e trocas no instrumento.
+- Receber e comparar as imagens de Am.
+
+PRÓXIMA AÇÃO
+
+Fechar as perguntas e os testes acima antes de selecionar os acordes iniciais.

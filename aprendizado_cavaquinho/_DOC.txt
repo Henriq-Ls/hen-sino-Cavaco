@@ -1,0 +1,29 @@
+DOCUMENTAÇÃO — CONTEÚDO DE APRENDIZAGEM
+
+FINALIDADE
+
+Esta pasta contém o currículo e a documentação musical do hen-sino-Cavaco.
+Os materiais orientam um método de estudo passo a passo; não descrevem um
+professor virtual nem devem ser tratados como aulas já concluídas.
+
+ORGANIZAÇÃO
+
+- 00_INDICE_E_STATUS.txt: índice dos documentos-base e dos módulos.
+- 01 a 07: objetivo, sequência, diagramas, pesquisa, validações e matriz
+  candidata. O arquivo 06 é um prompt histórico, não uma especificação atual.
+- modulos/: documentação de cada etapa curricular, com _DOC.txt e _STATUS.txt.
+- research/ fica fora desta pasta e guarda notas/fontes da pesquisa; não mover
+  nem apagar as fontes ao editar o currículo.
+
+REGRAS DE CONTEÚDO
+
+- Tratar as 28 posições como candidatas até confirmar fonte e teste no instrumento.
+- Separar cálculo das notas, forma publicada e facilidade pessoal.
+- Não inventar digitações nem declarar uma posição “mais fácil” por contagem de
+  dedos.
+- Não ampliar as qualidades de acorde sem decisão do aluno.
+- Usar somente ciclos harmônicos identificados corretamente.
+- O aluno já conhece uma batida básica; não começar de novo por ela.
+- Não confundir documentos planejados com lições já implementadas no aplicativo.
+
+Os módulos abaixo são módulos curriculares/documentais, não módulos de código.

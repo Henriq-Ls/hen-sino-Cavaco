@@ -1,0 +1,15 @@
+STATUS: NÃO INICIADO
+
+BLOQUEADO POR
+
+Módulo 00: ainda faltam confirmações e testes físicos das posições.
+
+JÁ DEFINIDO
+
+O curso deve apresentar poucas formas por vez e testar a lembrança nos dois
+sentidos: cifra para posição e posição para cifra.
+
+PENDENTE
+
+Escolher o conjunto inicial e a posição principal de cada acorde com base em
+fontes, conforto do aluno, som limpo e transições úteis.

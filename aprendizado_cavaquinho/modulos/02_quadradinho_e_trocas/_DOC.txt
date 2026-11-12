@@ -1,0 +1,24 @@
+MÓDULO 02 — QUADRADINHO E TROCAS
+
+OBJETIVO
+
+Usar os primeiros acordes aprovados em um quadradinho de samba e manter o pulso
+durante as quatro mudanças.
+
+REFERÊNCIA HARMÔNICA
+
+Quadradinho de samba aqui significa I–VI7–IIm–V7, não qualquer sequência de
+quatro acordes. Exemplos possíveis na matriz atual incluem C–A7–Dm–G7 e
+G–E7–Am–D7. A tonalidade só será escolhida depois do teste das formas.
+
+ATIVIDADES PLANEJADAS
+
+- Tocar os quatro acordes isolados.
+- Fazer as mudanças sem levada, primeiro devagar e depois em pulso estável.
+- Nomear as cifras enquanto toca.
+- Aplicar a levada no módulo seguinte e recuperar o ciclo sem consultar a tabela.
+
+CRITÉRIO PARA CONCLUIR
+
+Completar voltas do ciclo mantendo a ordem, som claro e pulso estável.
+Não aprovar um ciclo se faltar algum acorde na matriz confirmada.

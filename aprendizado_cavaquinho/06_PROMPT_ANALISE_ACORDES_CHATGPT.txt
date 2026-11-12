@@ -1,0 +1,132 @@
+PROMPT PARA PESQUISAR E ANALISAR AS DIGITAÇÕES DE ACORDES
+
+Copie o texto abaixo para o ChatGPT e anexe a tabela original de acordes e as
+duas imagens rotuladas Am.
+
+----------------------------------------------------------------------
+
+Quero que você pesquise e analise digitações de acordes para cavaquinho
+brasileiro. Não comece programando um aplicativo. A tarefa é produzir uma
+referência correta e fácil de ensinar a um iniciante.
+
+CONTEXTO DO ALUNO
+
+Sou iniciante e me confundo com tabelas cheias de desenhos de acordes. Quero
+aprender por etapas e usar apenas uma digitação por acorde no material inicial:
+a forma mais fácil de posicionar, tocar com som limpo e trocar. Não quero que a
+escolha seja feita apenas contando dedos. Em dois diagramas de Am anexados,
+considero a primeira forma mais fácil; verifique isso em vez de ignorar essa
+experiência.
+
+AFINAÇÃO E CONVENÇÕES
+
+A referência pretendida é a afinação brasileira Ré–Sol–Si–Ré, da 4ª corda para
+a 1ª. Da 1ª à 4ª corda: Ré agudo, Si, Sol, Ré grave. Confirme essa referência
+com fontes. Se um diagrama usar outra afinação ou outra orientação, identifique
+isso e não misture as posições.
+
+Use a numeração da mão esquerda: 1 = indicador, 2 = médio, 3 = anelar,
+4 = mindinho. Explique também como o desenho está orientado: em diagramas
+verticais, indique claramente qual linha é cada corda e como contar as casas.
+
+MATRIZ PRETENDIDA
+
+Quero uma matriz com sete colunas de fundamentais:
+Dó (C), Ré (D), Mi (E), Fá (F), Sol (G), Lá (A), Si (B).
+
+E quatro linhas, conforme meu pedido:
+1. Maior
+2. Menor
+3. Sustenida
+4. Com sétima
+
+Antes de preencher a matriz, explicite estas duas ambiguidades:
+
+- "Sustenida" pode significar acorde com a fundamental elevada em um semitom
+  (por exemplo, C# maior) ou acorde aumentado (por exemplo, C+ / Caug). Não
+  trate essas coisas como iguais. Diga qual interpretação está usando; se não
+  puder confirmar, mostre a hipótese e deixe a decisão em aberto.
+- "Com sétima" pode significar a sétima da dominante (C7) ou outro tipo, como
+  sétima maior (Cmaj7). Diga qual tipo está usando e não misture as categorias.
+
+Se a linha de fundamentais sustenidas for usada, explique as equivalências
+enarmônicas, especialmente E# = F e B# = C no sistema temperado. Não apresente
+sons enarmônicos como se fossem alturas diferentes. Preserve a estrutura
+solicitada de sete colunas e quatro linhas, mas sinalize células redundantes ou
+com grafia incomum.
+
+PESQUISA E FONTES
+
+Pesquise na internet fontes específicas de cavaquinho brasileiro: métodos de
+professores, materiais didáticos de iniciantes e trabalhos acadêmicos. Consulte
+mais de uma fonte para comparar digitações. Priorize fontes que mostrem
+afinação, numeração das cordas, casas e dedos.
+
+Para cada fonte usada, informe título, autor ou instituição, link e o que ela
+confirma. Não invente referências. Se não tiver acesso à navegação, diga isso e
+não finja ter pesquisado.
+
+O aluno quer acordes populares e úteis em samba e pagode, evitando formas
+obscuras usadas apenas ocasionalmente. Não declare popularidade com base em uma
+única imagem: explique quais fontes ou materiais sustentam essa escolha.
+
+COMO ESCOLHER A DIGITAÇÃO MAIS FÁCIL
+
+Para cada acorde, compare as formas encontradas e escolha somente uma para a
+matriz. Avalie:
+
+- conforto e abertura da mão;
+- distância entre os dedos e casas;
+- som limpo em todas as cordas que devem soar, sem ruído nas abafadas;
+- pestana ou necessidade de abafar cordas;
+- posição no braço;
+- facilidade de trocar para acordes comuns;
+- se a forma aparece em materiais brasileiros de ensino.
+
+Não presuma que a forma com menos dedos é sempre mais fácil. Considere
+explicitamente que o aluno relata achar a primeira imagem de Am mais confortável.
+Se a evidência musical contrariar essa impressão, explique com respeito a
+diferença entre conforto percebido e correção das notas.
+
+ANÁLISE OBRIGATÓRIA DAS DUAS IMAGENS DE AM
+
+Analise cada diagrama separadamente. Para cada uma:
+
+1. Determine a corda, a casa e o dedo indicado por cada marcação.
+2. Converta as posições em notas, usando a afinação confirmada.
+3. Diga se as notas realmente formam Am (Lá, Dó e Mi), incluindo notas
+   duplicadas em oitavas, se houver.
+4. Compare dificuldade, posição no braço, sonoridade/voicing e utilidade para
+   trocar de acorde.
+5. Se alguma imagem estiver ambígua, mal rotulada ou usar outra afinação,
+   informe exatamente o que falta. Não declare que as formas são equivalentes
+   só porque ambas estão marcadas "Am".
+
+FORMATO DA RESPOSTA
+
+1. Convenções confirmadas: afinação, contagem das cordas e leitura do diagrama.
+2. Definição explícita das quatro linhas da matriz e das ambiguidades.
+3. Matriz 7 × 4, com uma única posição recomendada por célula.
+4. Para cada célula, inclua:
+   - cifra e qualidade;
+   - notas do acorde;
+   - casas e dedos, corda por corda da 1ª à 4ª;
+   - cordas soltas ou abafadas;
+   - motivo da escolha como posição fácil/popular;
+   - fonte(s) que sustentam a digitação.
+5. Uma versão textual simples de cada diagrama, que outra pessoa consiga
+   desenhar sem adivinhar a orientação.
+6. Uma lista separada de posições que não puderam ser verificadas.
+
+VALIDAÇÃO MUSICAL
+
+Antes de aprovar cada posição, recalcule a nota de cada corda a partir da
+afinação e da casa pressionada. Confira se o conjunto resultante corresponde ao
+acorde escrito. Se a forma estiver errada, não a copie: mostre a discrepância e
+proponha uma alternativa com fonte.
+
+Não escolha todas as 28 posições por intuição. Se não encontrar uma forma fácil
+e verificável para alguma célula, marque-a como "precisa de validação" e
+explique por quê. Não invente posições, fontes, notas ou medidas de popularidade.
+
+----------------------------------------------------------------------

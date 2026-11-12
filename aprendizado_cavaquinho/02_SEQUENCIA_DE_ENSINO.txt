@@ -1,0 +1,125 @@
+SEQUÊNCIA DE ENSINO
+
+REGRA CENTRAL
+
+O aluno quer aprender quais acordes estudar, fixá-los e depois reconhecê-los em
+músicas. A sequência começa pela matriz de acordes e pelas posições mais
+acessíveis para o aluno. Quadradinhos, levadas e repertório serão construídos
+somente com os acordes dessa matriz.
+
+O QUE É O QUADRADINHO DE SAMBA
+
+Como referência de trabalho, o quadradinho de samba é a sequência de quatro
+funções I–VI7–IIm–V7. Em Dó maior, por exemplo, é C–A7–Dm–G7. Não é qualquer
+sequência de quatro acordes. O campo harmônico pode ter sete acordes; o
+quadradinho seleciona quatro funções para formar uma sequência repetível.
+Sequências com seis ou sete mudanças são encadeamentos mais longos, não o
+quadradinho básico de quatro acordes.
+
+Com a matriz proposta, há exemplos completos nas tonalidades:
+- Dó: C–A7–Dm–G7.
+- Ré: D–B7–Em–A7.
+- Fá: F–D7–Gm–C7.
+- Sol: G–E7–Am–D7.
+- Si bemol (grafado A# na linha sustenida): A#–G7–Cm–F7.
+
+A matriz atual não contém todos os acordes necessários para montar o quadradinho
+em cada uma das sete tonalidades naturais. Por exemplo, os quadradinhos de Mi e
+Lá exigem acordes sustenidos com menor ou sétima que não estão nas quatro linhas
+propostas. Não inventar esses acordes: escolher uma tonalidade compatível ou
+conversar com o aluno antes de ampliar a matriz.
+
+Antes de usar qualquer exemplo como exercício definitivo, conferir as posições
+no cavaquinho e escolher uma música compatível.
+
+FASE 0 — FECHAR A BASE DE ACORDES
+
+- Confirmar a afinação do instrumento e as convenções dos diagramas.
+- Confirmar o significado de “sustenida” e “com sétima”.
+- Conferir as 28 posições por notas e consultar diagramas de fontes brasileiras.
+- Testar fisicamente as formas candidatas e selecionar as mais acessíveis para o
+  aluno; não declarar uma forma “mais fácil” apenas por ter menos dedos.
+- Manter uma posição principal por acorde no material inicial.
+
+FASE 1 — BÁSICO: RECONHECER E MONTAR OS PRIMEIROS ACORDES
+
+- Ensinar poucos acordes por vez, começando pelos mais acessíveis no teste.
+- Associar cifra, nome, cordas, casas e dedos.
+- Treinar a memória: nome → posição no braço; posição → nome do acorde.
+- Fazer cada corda soar limpa e praticar trocas entre pares de acordes.
+- Usar G–E7–Am–D7 como primeiro quadradinho candidato a teste: G aberto, E7 com
+  dois dedos, Am sem pestana na forma candidata e D7 sem pestana. A forma de Am
+  ainda precisa ser comparada com a posição que o aluno relata preferir.
+- Se o teste mostrar que alguma posição não é acessível, rever a forma do acorde
+  ou experimentar outro quadradinho completo da lista acima.
+
+O primeiro quadradinho será escolhido entre os exemplos completos acima depois
+de testar quais quatro posições são mais confortáveis para o aluno. Outras
+progressões de quatro acordes podem ser estudadas, mas serão nomeadas como
+progressões ou ciclos de quatro acordes, sem confundir com o quadradinho de
+samba I–VI7–IIm–V7.
+
+FASE 2 — BÁSICO RÍTMICO: DUAS LEVADAS EVOLUTIVAS
+
+- Não começar pela batida básica que o aluno já conhece e já executa.
+- Escolher duas levadas simples que possam receber variações sem trocar a
+  identidade rítmica.
+- Ensinar cada levada em andamento confortável sobre um acorde; depois aplicar
+  ao quadradinho e às trocas.
+- Usar a batida própria do aluno como referência, sem obrigá-lo a substituí-la.
+- Definir e testar as duas levadas antes de escrever as aulas definitivas.
+
+FASE 3 — SEMIAVANÇADO: VARIAÇÕES DOS QUADRADINHOS
+
+- Aprender o mesmo desenho harmônico em outra tonalidade permitida pela matriz.
+- Identificar a função I–VI7–IIm–V7 de cada acorde e reconhecer o padrão sem
+  depender da tonalidade ou de uma cifra decorada.
+- Variar andamento, dinâmica e levada sem perder a ordem e a função dos acordes.
+
+Exemplo: depois de G–E7–Am–D7, estudar D–B7–Em–A7. O padrão funcional é o mesmo;
+as posições, transições e a música devem ser testadas antes de adotar o exercício.
+
+FASE 4 — AVANÇADO: ENCADEAMENTOS E MÚSICAS
+
+- Ligar quadradinhos ou ampliar uma sequência para seis ou sete mudanças, sem
+  sair dos acordes aprovados na matriz.
+- Desenvolver trocas rápidas, abafamentos, repiques, dinâmica, variações das
+  duas levadas e reconhecimento auditivo.
+- Ler cifras de músicas escolhidas e localizar cada acorde no braço.
+
+Exemplo teórico de sequência mais longa: C – E7 – Am – D7 – G7 – C. Todos os
+acordes pertencem à matriz proposta; a adequação musical e a digitação ainda
+devem ser testadas.
+
+FASE 5 — PROFISSIONAL, DENTRO DO ESCOPO APROVADO
+
+- Aplicar o mesmo vocabulário de acordes em arranjos, repertório, mudanças de
+  tonalidade compatíveis e diferentes levadas.
+- Trabalhar consistência, precisão, som, dinâmica, condução rítmica e
+  independência para aprender músicas novas.
+- Não introduzir acordes de outras qualidades (por exemplo, maj7, diminuto,
+  aumentado ou 9ª) sem ampliar a matriz com aprovação do aluno.
+
+OBSERVAÇÃO SOBRE O ESCOPO
+
+Chegar a um nível profissional em acompanhamento pode exigir acordes que não
+estão nesta matriz. Enquanto o projeto mantiver a regra de usar somente os 28
+acordes, “profissional” significa desenvolver execução e aplicação profissional
+dentro desse vocabulário limitado, não dominar toda a harmonia do cavaquinho.
+
+CICLO DE CADA AULA
+
+1. Identificar o acorde ou trecho musical que será praticado.
+2. Ver e ouvir a posição correta.
+3. Montar o acorde e conferir as quatro cordas.
+4. Treinar a troca mantendo o pulso.
+5. Aplicar uma das levadas estudadas.
+6. Tocar o quadradinho ou trecho de música.
+7. Recuperar acordes e levadas de aulas anteriores.
+
+CRITÉRIO PARA AVANÇAR
+
+Avançar quando o aluno reconhecer o acorde, encontrá-lo no braço, produzir som
+limpo e fazer a troca no pulso. Para avançar de fase, também deve aplicar a
+habilidade em um quadradinho ou trecho musical sem depender de orientação a cada
+movimento. Assistir a uma aula ou completar uma tela não comprova aprendizagem.

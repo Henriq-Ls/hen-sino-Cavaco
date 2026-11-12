@@ -1,0 +1,18 @@
+DOCUMENTAÇÃO — ÍCONES
+
+RESPONSABILIDADE
+
+icones.py centraliza os ícones usados pelos controles do aplicativo para manter
+o mesmo desenho e permitir trocar a fonte dos ícones sem editar cada tela.
+
+USO
+
+- ico_config(cor) identifica o botão Configurações da janela principal.
+- ico_paleta(cor) identifica os controles de escolha de cor e a prévia do tema.
+- Os demais ico_* devem ser reutilizados por telas e diálogos existentes.
+- Quando qtawesome está instalado, os ícones vêm dessa biblioteca. Para os
+  controles de configurações, há desenhos Qt básicos como alternativa, para
+  que o botão continue identificável sem qtawesome.
+
+Passe a cor de acordo com o tema atual para manter contraste em fundos claros e
+escuros. Evite desenhar ou carregar ícones diretamente dentro das páginas.

@@ -1,0 +1,74 @@
+PONTOS PARA VALIDAR ANTES DE FECHAR A SEQUÊNCIA
+
+DECISÕES SOBRE OS ACORDES
+
+1. Confirmar a afinação real do instrumento. A referência de trabalho é
+   Ré–Sol–Si–Ré, mas o instrumento do aluno precisa ser conferido.
+2. Confirmar que “sustenida” significa acorde maior com a fundamental elevada
+   (por exemplo, C#), e não acorde aumentado.
+3. Confirmar que “com sétima” significa acorde dominante (por exemplo, C7), e
+   não acorde com sétima maior (Cmaj7).
+4. Confirmar a convenção visual dos diagramas: qual lado é a 1ª corda, onde
+   começa a contagem das casas e como mostrar cordas soltas ou abafadas.
+5. As 28 posições do arquivo 07 passaram no cálculo musical. Ainda falta
+   conferir cada desenho exato em fontes independentes de cavaquinho; não tratar
+   os candidatos como formas populares ou finais antes dessa etapa.
+6. Comparar as duas imagens de Am mencionadas pelo aluno. A primeira imagem não
+   está entre os arquivos disponíveis agora. O aluno relata que ela parece mais
+   fácil; preservar essa preferência e conferir as notas antes de escolher.
+
+TESTE PARA ESCOLHER AS FORMAS MAIS FÁCEIS
+
+Para cada candidata, registrar:
+- se cada corda soa limpa quando tocada separadamente e em conjunto;
+- conforto e abertura da mão, anotados pelo aluno;
+- casas pressionadas, dedos usados e necessidade de pestana ou abafamento;
+- facilidade para trocar a partir dos acordes do quadradinho escolhido;
+- quantidade de trocas corretas em um intervalo fixo, mantendo o mesmo andamento.
+
+Não escolher somente pelo menor número de dedos, pela casa mais baixa ou por
+uma figura publicada. “Mais fácil” só será uma conclusão prática depois da
+comparação no instrumento do aluno.
+
+PRÓXIMOS PASSOS PEDAGÓGICOS
+
+7. Escolher os primeiros acordes entre os candidatos testados; não é necessário
+   começar pela ordem Dó–Si nem apresentar as 28 posições de uma vez.
+8. Testar primeiro o quadradinho de Sol: G–E7–Am–D7. Ele é a recomendação
+   inicial porque suas formas candidatas parecem compactas, mas a facilidade
+   ainda precisa ser confirmada pelo aluno. Compará-lo com C–A7–Dm–G7,
+   D–B7–Em–A7, F–D7–Gm–C7 e A#–G7–Cm–F7 se necessário.
+9. Não chamar uma progressão qualquer de quadradinho de samba. Se o exercício
+   tiver outra estrutura, registrar como progressão ou ciclo de quatro acordes.
+10. Planejar duas levadas simples que possam evoluir para variações mais
+   avançadas. Não repetir a batida básica que o aluno já conhece nem substituir
+   sua batida própria sem motivo.
+11. Selecionar músicas para praticar reconhecimento das cifras, localização dos
+    acordes no braço, trocas e ritmo.
+12. Definir critérios concretos para os níveis básico, semiavançado, avançado e
+    profissional, sem adicionar novos tipos de acorde fora da matriz sem
+    aprovação do aluno.
+
+COMO VALIDAR UM QUADRADINHO DE SAMBA
+
+- Conferir a fórmula I–VI7–IIm–V7 e identificar a tonalidade.
+- Conferir se os quatro acordes estão na matriz aprovada.
+- Se faltar um acorde, não inventar sua digitação: escolher outra tonalidade ou
+  registrar a necessidade de ampliar a matriz.
+
+- Usar quatro acordes da matriz e escrever a ordem exata.
+- Tocar cada acorde isoladamente; depois ligar as trocas sem levada.
+- Aplicar uma das duas levadas selecionadas.
+- Manter o pulso durante voltas repetidas e identificar cada cifra sem consultar
+  a tabela.
+- Só então selecionar uma música compatível ou transpor uma música para a
+  sequência disponível.
+
+COMO DOCUMENTAR
+
+- Separar fato musical calculado, forma encontrada em fonte e facilidade testada.
+- Indicar corda, casa e dedo em vez de copiar apenas um desenho sem legenda.
+- Não confundir fundamental sustenida com acorde aumentado, nem dominante com
+  sétima maior.
+- Se uma imagem ou posição estiver ambígua, registrar exatamente o que falta.
+- Usar linguagem direta e responder ao detalhe concreto que o aluno perguntou.

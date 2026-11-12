@@ -1,0 +1,10 @@
+STATUS: NÃO INICIADO
+
+BLOQUEADO POR
+
+Módulos 00 a 03: acordes, ciclo e levadas precisam estar testados.
+
+PENDENTE
+
+Selecionar a segunda tonalidade e música compatível com a matriz. Não acrescentar
+acordes ausentes para completar um exercício sem conversar com o aluno.

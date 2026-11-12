@@ -1,0 +1,127 @@
+════════════════════════════════════════════════════════════════════════════════
+  DOCUMENTAÇÃO DO PROJETO
+════════════════════════════════════════════════════════════════════════════════
+
+PROJETO: hen-sino-Cavaco
+
+OBJETIVO
+
+Oferecer um método de estudo passo a passo para aprender cavaquinho brasileiro,
+com foco inicial em samba e pagode. O aplicativo deve organizar o que praticar,
+mostrar acordes com clareza e ajudar o aluno a avançar por habilidades; não deve
+agir como um professor virtual dando aulas.
+
+O protótipo desktop já foi iniciado. Ele apresenta início, uma trilha estática
+e um exemplo visual de Bm. Isso demonstra a estrutura visual, mas ainda não é um
+método de aprendizagem funcional. Não preencher o catálogo 7 × 4 com posições
+como conteúdo definitivo antes da validação musical e prática.
+
+ORGANIZAÇÃO DO CONTEÚDO
+
+aprendizado_cavaquinho/ guarda o plano curricular, fontes de referência,
+posições candidatas e módulos de estudo. Deve permanecer no projeto; os
+documentos existentes são base de trabalho, não conteúdo descartável.
+
+research/ guarda notas e cópias de fontes consultadas. research/notes.md contém
+uma síntese das fontes de aprendizagem, sequência pedagógica e apoio visual/sonoro.
+Manter os arquivos brutos: a síntese não valida as posições candidatas nem
+substitui as decisões e testes do aluno.
+
+Os módulos curriculares ficam em
+aprendizado_cavaquinho/modulos/. Eles são documentação e planejamento de
+aprendizagem, não módulos Python.
+
+────────────────────────────────────────────────────────────────────────────────
+MÓDULOS E RESPONSABILIDADES
+────────────────────────────────────────────────────────────────────────────────
+
+_CONFIGURA_/
+  Fonte única de verdade para hardcodes. Cores, atalhos, dimensões, strings
+  de UI. Também define as paletas prontas, o tema inicial e as funções que
+  validam e aplicam o tema escolhido. Ver _CONFIGURA_/_DOC.txt.
+
+_LOGS_/
+  Logger singleton. Gera LOG_GERAL.log a cada sessão.
+  Captura crashes Python (sys.excepthook) e nativos C/Qt (faulthandler).
+
+_APPDATA_/
+  Gerencia a pasta do usuário no sistema (%APPDATA% / ~/).
+  Caminhos canônicos, config.json, sessao.json e config/tema.json. O tema é
+  separado das demais configurações. Ver _APPDATA_/_DOC.txt.
+
+_THREADS_/
+  Base class ThreadSegura e gerenciador central ThreadManager.
+  Todas as threads do projeto herdam ThreadSegura.
+
+_APP_/
+  Janela principal, páginas e widgets da interface. O botão Configurações
+  abre o seletor de paleta; a mudança é aplicada à janela e ao diagrama.
+
+ACORDES/
+  Referências musicais validadas separadas da interface. O catálogo atual contém
+  somente o exemplo Bm apresentado pelo aluno.
+
+_UTILIDADES_/
+  Ícones, popups e ferramentas reutilizáveis. icones.py fornece os símbolos do
+  botão Configurações e dos seletores de cor. Ver _UTILIDADES_/_DOC.txt.
+
+nucleo/
+  Apenas documentação .txt. NUNCA coloque .py aqui.
+
+────────────────────────────────────────────────────────────────────────────────
+DECISÕES DE ARQUITETURA
+────────────────────────────────────────────────────────────────────────────────
+
+1. Apresentar o estudo em etapas curtas, sem despejar uma tabela inteira para o
+   aluno decorar.
+2. O catálogo planejado terá sete raízes e quatro categorias, ainda sujeitas à
+   confirmação do aluno. Posições candidatas precisam de fonte e teste antes de
+   serem apresentadas como fáceis ou definitivas.
+3. A afinação de referência é Ré–Sol–Si–Ré; outras afinações precisam ser
+   identificadas antes de usar um diagrama.
+4. O primeiro diagrama Bm é demonstrativo, não uma recomendação de primeiro
+   acorde.
+5. Os sentidos de "sustenida" e "com sétima" ainda precisam ser confirmados.
+6. O aluno já conhece uma batida básica e tem uma batida própria; não reiniciar o
+   curso por essa batida nem substituir a dele sem motivo.
+7. O aplicativo atual é um protótipo estático: não indicar que há exercícios,
+   áudio ou progresso funcional até esses recursos existirem e serem testados.
+
+────────────────────────────────────────────────────────────────────────────────
+DEPENDÊNCIAS EXTERNAS
+────────────────────────────────────────────────────────────────────────────────
+
+  PySide6       — framework Qt para Python
+  qtawesome     — ícones FontAwesome/MaterialDesign para Qt (opcional)
+
+[Adicione outras dependências conforme o projeto crescer]
+
+════════════════════════════════════════════════════════════════════════════════
+
+PREFERÊNCIAS VISUAIS DO USUÁRIO
+
+O botão Configurações fica na barra lateral do aplicativo. Ele abre o diálogo
+_APP_/settings_dialog.py, onde o usuário pode escolher Noite de madeira, Papel
+suave, Contraste elevado ou uma combinação personalizada.
+
+A escolha personalizada permite alterar cinco cores: fundo da página, painéis,
+menu lateral, texto principal e destaque/botões. As cores auxiliares — como
+bordas, estados de foco, hover e textos secundários — são derivadas para manter
+uma aparência coerente e avisar sobre combinações com baixo contraste.
+
+O JSON é salvo em config/tema.json dentro da pasta AppData do usuário. No
+Windows, a pasta é normalmente %APPDATA%\hen_sino_cavaco; em Linux e macOS, é
+~/hen_sino_cavaco. config.json mantém as configurações gerais e sessao.json
+continua guardando a geometria/estado da janela.
+
+Onde reutilizar:
+
+- Páginas novas em _APP_/pages/ podem usar o tema que MainWindow já carrega.
+- Widgets que desenham com QPainter, como o diagrama de acorde, devem receber
+  as cores do tema e redesenhar quando a paleta mudar.
+- Diálogos, botões e formulários devem usar estilos do _CONFIGURA_ e ícones de
+  _UTILIDADES_/icones.py, sem cores fixas espalhadas pela interface.
+- A preferência é local ao usuário; não sincroniza entre computadores e não
+  altera o tema do sistema operacional.
+
+════════════════════════════════════════════════════════════════════════════════

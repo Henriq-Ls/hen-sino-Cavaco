@@ -1,0 +1,31 @@
+MÓDULO 01 — ACORDES INICIAIS
+
+OBJETIVO
+
+Aprender poucos acordes de cada vez, associando cifra, nome, posição, som e
+digitação, até conseguir montar cada forma com som limpo.
+
+ATIVIDADES PLANEJADAS
+
+- Ver o diagrama e identificar as quatro cordas.
+- Montar o acorde; tocar as cordas separadamente e juntas.
+- Recuperar o nome a partir da posição e a posição a partir do nome.
+- Alternar entre pares de acordes em andamento confortável.
+- Rever acordes já estudados em sessões posteriores.
+
+REGRAS
+
+- Escolher as formas depois do Módulo 00, considerando o teste do aluno.
+- Não ensinar as 28 posições de uma vez.
+- G–E7–Am–D7 é somente um conjunto candidato para teste.
+- Não confundir cálculo correto com facilidade comprovada.
+
+DOCUMENTOS DE APOIO
+
+01_OBJETIVO_DO_PROJETO.txt, 02_SEQUENCIA_DE_ENSINO.txt,
+03_ACORDES_E_DIAGRAMAS.txt e 07_MATRIZ_DE_ACORDES_CANDIDATOS_CALCULADOS.txt.
+
+CRITÉRIO PARA CONCLUIR
+
+O aluno identifica cada acorde escolhido, encontra a posição e produz som limpo
+sem depender o tempo todo do diagrama.
